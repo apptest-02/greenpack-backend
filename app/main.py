@@ -5,6 +5,7 @@ Starts the complete backend API server.
 import asyncio
 import logging
 import sys
+import os
 from contextlib import asynccontextmanager
 from pathlib import Path
 from sqlalchemy import Integer, func
@@ -158,10 +159,16 @@ app = FastAPI(
     redoc_url="/api/redoc",
 )
 
-# CORS
+# CORS - Allow frontend domains
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "http://test.copypaste.vendagas.com",
+        "https://test.copypaste.vendagas.com",
+        "http://localhost:3000",
+        "http://localhost:5173",
+        "http://localhost:18080",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -248,10 +255,8 @@ reports_dir.mkdir(parents=True, exist_ok=True)
 app.mount("/reports", StaticFiles(directory=str(reports_dir)), name="reports")
 
 
+# ── Entry Point for Railway ────────────────────────────────────────────────────
 if __name__ == "__main__":
-    import uvicorn
-    import os
-    
     # Railway uses PORT environment variable
     port = int(os.environ.get("PORT", settings.api_port))
     host = "0.0.0.0"  # Listen on all interfaces
@@ -261,7 +266,5 @@ if __name__ == "__main__":
         host=host,
         port=port,
         reload=False,
-        log_level=settings.log_level.lower(),
-    )
         log_level=settings.log_level.lower(),
     )
