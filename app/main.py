@@ -250,10 +250,18 @@ app.mount("/reports", StaticFiles(directory=str(reports_dir)), name="reports")
 
 if __name__ == "__main__":
     import uvicorn
+    import os
+    
+    # Railway uses PORT environment variable
+    port = int(os.environ.get("PORT", settings.api_port))
+    host = "0.0.0.0"  # Listen on all interfaces
+    
     uvicorn.run(
         "app.main:app",
-        host=settings.api_host,
-        port=settings.api_port,
+        host=host,
+        port=port,
         reload=False,
+        log_level=settings.log_level.lower(),
+    )
         log_level=settings.log_level.lower(),
     )
