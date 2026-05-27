@@ -78,37 +78,39 @@ async def create_multi_up_job(
     if not job_ref:
         job_ref = f"MULTI-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
 
+    # Fix: Proper indentation for these lines
     job = InspectionJob(
-    id=job_id,
-    company_id=1,  # Hardcoded for testing
-    created_by=1,  # Hardcoded for testing
-    job_ref=job_ref,
-    client_name=client_name,
-    product_name=product_name,
-    master_file_path=str(master_path),
-    scan_file_path=str(scan_path),
-    input_source="multi_up",
-    status=JobStatus.queued,
-)
-db.add(job)
-db.add(AuditLog(
-    company_id=1,  # Hardcoded for testing
-    user_id=1,  # Hardcoded for testing
-    action="MULTI_UP_CREATED",
-    resource_type="job",
-    resource_id=job_id,
-    details={"expected_count": expected_count, "transparent": is_transparent},
-))
+        id=job_id,
+        company_id=1,  # Hardcoded for testing
+        created_by=1,  # Hardcoded for testing
+        job_ref=job_ref,
+        client_name=client_name,
+        product_name=product_name,
+        master_file_path=str(master_path),
+        scan_file_path=str(scan_path),
+        input_source="multi_up",
+        status=JobStatus.queued,
+    )
+    db.add(job)
+    db.add(AuditLog(
+        company_id=1,  # Hardcoded for testing
+        user_id=1,  # Hardcoded for testing
+        action="MULTI_UP_CREATED",
+        resource_type="job",
+        resource_id=job_id,
+        details={"expected_count": expected_count, "transparent": is_transparent},
+    ))
     await db.commit()
 
     log.info(f"Multi-up job {job_id} ({job_ref}) created, expected={expected_count}")
 
+    # Fix: Remove duplicate "inspector_name"
     config = {
         "job_id": job_id,
         "job_ref": job_ref,
         "client_name": client_name,
         "product_name": product_name,
-        "inspector_name": "inspector_name": "Test User",
+        "inspector_name": "Test User",  # Fixed: was duplicated
         "expected_count": expected_count,
         "is_transparent": is_transparent,
         "color_threshold": color_threshold,
