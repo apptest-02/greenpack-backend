@@ -25,7 +25,7 @@ def get_ocr_reader():
     First load: ~8-12 seconds, ~2GB RAM. Subsequent calls: instant.
     """
     log.info("Loading EasyOCR model (first time — this takes ~10 seconds)...")
-    import easyocr
+    import torchfree_ocr as easyocr
     reader = easyocr.Reader(
         ["en"],
         gpu=False,
