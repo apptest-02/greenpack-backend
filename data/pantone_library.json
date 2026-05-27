@@ -1,0 +1,11179 @@
+{
+  "version": "1.0",
+  "generated": "2025-04-26",
+  "source": "PANTONE Color Bridge guide approximations + custom user libraries",
+  "color_count": 698,
+  "delta_e_method": "CIE2000",
+  "reference_illuminant": "D50",
+  "reference_observer": "2 degree",
+  "colors": [
+    {
+      "code": "PANTONE Yellow C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FEDD00",
+      "rgb": [
+        254,
+        221,
+        0
+      ],
+      "lab": [
+        88.35,
+        -7.49,
+        79.2
+      ]
+    },
+    {
+      "code": "PANTONE 100 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F5E663",
+      "rgb": [
+        245,
+        230,
+        99
+      ],
+      "lab": [
+        90.28,
+        -12.6,
+        52.5
+      ]
+    },
+    {
+      "code": "PANTONE 101 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F4ED47",
+      "rgb": [
+        244,
+        237,
+        71
+      ],
+      "lab": [
+        91.8,
+        -18.01,
+        65.85
+      ]
+    },
+    {
+      "code": "PANTONE 102 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FAE700",
+      "rgb": [
+        250,
+        231,
+        0
+      ],
+      "lab": [
+        90.54,
+        -14.17,
+        80.38
+      ]
+    },
+    {
+      "code": "PANTONE 103 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#C6AE03",
+      "rgb": [
+        198,
+        174,
+        3
+      ],
+      "lab": [
+        71.07,
+        -7.29,
+        65.62
+      ]
+    },
+    {
+      "code": "PANTONE 104 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#AC9600",
+      "rgb": [
+        172,
+        150,
+        0
+      ],
+      "lab": [
+        62.16,
+        -6.09,
+        59.29
+      ]
+    },
+    {
+      "code": "PANTONE 105 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#897732",
+      "rgb": [
+        137,
+        119,
+        50
+      ],
+      "lab": [
+        50.39,
+        -3.11,
+        32.33
+      ]
+    },
+    {
+      "code": "PANTONE 106 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F7E96E",
+      "rgb": [
+        247,
+        233,
+        110
+      ],
+      "lab": [
+        91.32,
+        -12.52,
+        48.36
+      ]
+    },
+    {
+      "code": "PANTONE 107 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F6E859",
+      "rgb": [
+        246,
+        232,
+        89
+      ],
+      "lab": [
+        90.79,
+        -13.81,
+        57.6
+      ]
+    },
+    {
+      "code": "PANTONE 108 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F8E12B",
+      "rgb": [
+        248,
+        225,
+        43
+      ],
+      "lab": [
+        88.92,
+        -11.4,
+        72.64
+      ]
+    },
+    {
+      "code": "PANTONE 109 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FFD100",
+      "rgb": [
+        255,
+        209,
+        0
+      ],
+      "lab": [
+        85.44,
+        -0.97,
+        77.48
+      ]
+    },
+    {
+      "code": "PANTONE 110 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#DAA900",
+      "rgb": [
+        218,
+        169,
+        0
+      ],
+      "lab": [
+        71.75,
+        4.09,
+        67.42
+      ]
+    },
+    {
+      "code": "PANTONE 111 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A88B00",
+      "rgb": [
+        168,
+        139,
+        0
+      ],
+      "lab": [
+        58.78,
+        -1.88,
+        57.03
+      ]
+    },
+    {
+      "code": "PANTONE 112 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9F7F0C",
+      "rgb": [
+        159,
+        127,
+        12
+      ],
+      "lab": [
+        54.63,
+        0.86,
+        51.71
+      ]
+    },
+    {
+      "code": "PANTONE 113 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F7E25E",
+      "rgb": [
+        247,
+        226,
+        94
+      ],
+      "lab": [
+        89.38,
+        -10.1,
+        53.96
+      ]
+    },
+    {
+      "code": "PANTONE 114 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F8E04E",
+      "rgb": [
+        248,
+        224,
+        78
+      ],
+      "lab": [
+        88.84,
+        -9.59,
+        60.5
+      ]
+    },
+    {
+      "code": "PANTONE 115 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F8DD3D",
+      "rgb": [
+        248,
+        221,
+        61
+      ],
+      "lab": [
+        87.97,
+        -8.82,
+        66.3
+      ]
+    },
+    {
+      "code": "PANTONE 116 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FFD100",
+      "rgb": [
+        255,
+        209,
+        0
+      ],
+      "lab": [
+        85.44,
+        -0.97,
+        77.48
+      ]
+    },
+    {
+      "code": "PANTONE 117 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#C8A803",
+      "rgb": [
+        200,
+        168,
+        3
+      ],
+      "lab": [
+        69.68,
+        -3.23,
+        64.85
+      ]
+    },
+    {
+      "code": "PANTONE 118 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A98E00",
+      "rgb": [
+        169,
+        142,
+        0
+      ],
+      "lab": [
+        59.69,
+        -3.08,
+        57.63
+      ]
+    },
+    {
+      "code": "PANTONE 119 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#856B00",
+      "rgb": [
+        133,
+        107,
+        0
+      ],
+      "lab": [
+        46.32,
+        -0.1,
+        47.64
+      ]
+    },
+    {
+      "code": "PANTONE 120 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F6DC78",
+      "rgb": [
+        246,
+        220,
+        120
+      ],
+      "lab": [
+        88.04,
+        -5.58,
+        39.61
+      ]
+    },
+    {
+      "code": "PANTONE 121 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F6D964",
+      "rgb": [
+        246,
+        217,
+        100
+      ],
+      "lab": [
+        87.07,
+        -5.57,
+        48.66
+      ]
+    },
+    {
+      "code": "PANTONE 122 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FACE3D",
+      "rgb": [
+        250,
+        206,
+        61
+      ],
+      "lab": [
+        84.38,
+        -0.34,
+        63.32
+      ]
+    },
+    {
+      "code": "PANTONE 123 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FFC72C",
+      "rgb": [
+        255,
+        199,
+        44
+      ],
+      "lab": [
+        83.07,
+        4.82,
+        68.23
+      ]
+    },
+    {
+      "code": "PANTONE 124 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#EAAA00",
+      "rgb": [
+        234,
+        170,
+        0
+      ],
+      "lab": [
+        73.7,
+        10.46,
+        69.45
+      ]
+    },
+    {
+      "code": "PANTONE 125 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B58500",
+      "rgb": [
+        181,
+        133,
+        0
+      ],
+      "lab": [
+        58.6,
+        7.34,
+        57.64
+      ]
+    },
+    {
+      "code": "PANTONE 126 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A07400",
+      "rgb": [
+        160,
+        116,
+        0
+      ],
+      "lab": [
+        51.8,
+        7.36,
+        52.45
+      ]
+    },
+    {
+      "code": "PANTONE 127 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F3DD6D",
+      "rgb": [
+        243,
+        221,
+        109
+      ],
+      "lab": [
+        87.91,
+        -8.16,
+        45.04
+      ]
+    },
+    {
+      "code": "PANTONE 128 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F2D04E",
+      "rgb": [
+        242,
+        208,
+        78
+      ],
+      "lab": [
+        84.25,
+        -3.93,
+        55.95
+      ]
+    },
+    {
+      "code": "PANTONE 129 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F0BC2F",
+      "rgb": [
+        240,
+        188,
+        47
+      ],
+      "lab": [
+        78.87,
+        4.33,
+        63.36
+      ]
+    },
+    {
+      "code": "PANTONE 130 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F2A900",
+      "rgb": [
+        242,
+        169,
+        0
+      ],
+      "lab": [
+        74.35,
+        14.4,
+        70.29
+      ]
+    },
+    {
+      "code": "PANTONE 131 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CC8A00",
+      "rgb": [
+        204,
+        138,
+        0
+      ],
+      "lab": [
+        62.52,
+        14.76,
+        61.28
+      ]
+    },
+    {
+      "code": "PANTONE 132 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A07400",
+      "rgb": [
+        160,
+        116,
+        0
+      ],
+      "lab": [
+        51.8,
+        7.36,
+        52.45
+      ]
+    },
+    {
+      "code": "PANTONE 133 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6E5A1F",
+      "rgb": [
+        110,
+        90,
+        31
+      ],
+      "lab": [
+        39.12,
+        -0.07,
+        30.11
+      ]
+    },
+    {
+      "code": "PANTONE 134 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FCD299",
+      "rgb": [
+        252,
+        210,
+        153
+      ],
+      "lab": [
+        86.55,
+        5.08,
+        19.92
+      ]
+    },
+    {
+      "code": "PANTONE 135 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FBC678",
+      "rgb": [
+        251,
+        198,
+        120
+      ],
+      "lab": [
+        83.05,
+        7.78,
+        33.91
+      ]
+    },
+    {
+      "code": "PANTONE 136 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FFB549",
+      "rgb": [
+        255,
+        181,
+        73
+      ],
+      "lab": [
+        78.92,
+        15.27,
+        53.54
+      ]
+    },
+    {
+      "code": "PANTONE 137 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FFA300",
+      "rgb": [
+        255,
+        163,
+        0
+      ],
+      "lab": [
+        74.48,
+        22.99,
+        71.17
+      ]
+    },
+    {
+      "code": "PANTONE 138 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D57800",
+      "rgb": [
+        213,
+        120,
+        0
+      ],
+      "lab": [
+        59.51,
+        28.32,
+        60.28
+      ]
+    },
+    {
+      "code": "PANTONE 139 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#AD6B00",
+      "rgb": [
+        173,
+        107,
+        0
+      ],
+      "lab": [
+        51.15,
+        18.34,
+        52.94
+      ]
+    },
+    {
+      "code": "PANTONE 140 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#765D26",
+      "rgb": [
+        118,
+        93,
+        38
+      ],
+      "lab": [
+        40.93,
+        2.4,
+        28.43
+      ]
+    },
+    {
+      "code": "PANTONE Orange 021 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FE5000",
+      "rgb": [
+        254,
+        80,
+        0
+      ],
+      "lab": [
+        58.8,
+        61.78,
+        63.67
+      ]
+    },
+    {
+      "code": "PANTONE 141 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F4C677",
+      "rgb": [
+        244,
+        198,
+        119
+      ],
+      "lab": [
+        82.36,
+        4.89,
+        33.47
+      ]
+    },
+    {
+      "code": "PANTONE 142 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F2B249",
+      "rgb": [
+        242,
+        178,
+        73
+      ],
+      "lab": [
+        76.8,
+        11.48,
+        51.01
+      ]
+    },
+    {
+      "code": "PANTONE 143 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#EFAA22",
+      "rgb": [
+        239,
+        170,
+        34
+      ],
+      "lab": [
+        74.33,
+        13.05,
+        63.94
+      ]
+    },
+    {
+      "code": "PANTONE 144 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#ED8B00",
+      "rgb": [
+        237,
+        139,
+        0
+      ],
+      "lab": [
+        66.88,
+        28.17,
+        65.87
+      ]
+    },
+    {
+      "code": "PANTONE 145 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CC7722",
+      "rgb": [
+        204,
+        119,
+        34
+      ],
+      "lab": [
+        58.18,
+        25.68,
+        49.94
+      ]
+    },
+    {
+      "code": "PANTONE 146 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9F6308",
+      "rgb": [
+        159,
+        99,
+        8
+      ],
+      "lab": [
+        47.38,
+        16.75,
+        47.88
+      ]
+    },
+    {
+      "code": "PANTONE 147 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6E4C1E",
+      "rgb": [
+        110,
+        76,
+        30
+      ],
+      "lab": [
+        35.16,
+        8.37,
+        26.73
+      ]
+    },
+    {
+      "code": "PANTONE 148 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FECB8B",
+      "rgb": [
+        254,
+        203,
+        139
+      ],
+      "lab": [
+        84.82,
+        8.06,
+        25.63
+      ]
+    },
+    {
+      "code": "PANTONE 149 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FCBC74",
+      "rgb": [
+        252,
+        188,
+        116
+      ],
+      "lab": [
+        80.7,
+        13.09,
+        33.35
+      ]
+    },
+    {
+      "code": "PANTONE 150 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FFA052",
+      "rgb": [
+        255,
+        160,
+        82
+      ],
+      "lab": [
+        74.2,
+        26.72,
+        44.43
+      ]
+    },
+    {
+      "code": "PANTONE 151 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FF8200",
+      "rgb": [
+        255,
+        130,
+        0
+      ],
+      "lab": [
+        67.45,
+        39.92,
+        67.51
+      ]
+    },
+    {
+      "code": "PANTONE 152 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#DD7500",
+      "rgb": [
+        221,
+        117,
+        0
+      ],
+      "lab": [
+        59.98,
+        33.15,
+        61.13
+      ]
+    },
+    {
+      "code": "PANTONE 153 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B86F26",
+      "rgb": [
+        184,
+        111,
+        38
+      ],
+      "lab": [
+        53.71,
+        21.74,
+        43.44
+      ]
+    },
+    {
+      "code": "PANTONE 154 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#8E5B23",
+      "rgb": [
+        142,
+        91,
+        35
+      ],
+      "lab": [
+        43.29,
+        14.53,
+        33.38
+      ]
+    },
+    {
+      "code": "PANTONE 155 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#EFD8B7",
+      "rgb": [
+        239,
+        216,
+        183
+      ],
+      "lab": [
+        87.43,
+        0.77,
+        3.78
+      ]
+    },
+    {
+      "code": "PANTONE 156 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F1C58A",
+      "rgb": [
+        241,
+        197,
+        138
+      ],
+      "lab": [
+        82.09,
+        6.01,
+        22.51
+      ]
+    },
+    {
+      "code": "PANTONE 157 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#ECA154",
+      "rgb": [
+        236,
+        161,
+        84
+      ],
+      "lab": [
+        72.21,
+        18.64,
+        40.59
+      ]
+    },
+    {
+      "code": "PANTONE 158 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E87722",
+      "rgb": [
+        232,
+        119,
+        34
+      ],
+      "lab": [
+        62.06,
+        36.97,
+        54.59
+      ]
+    },
+    {
+      "code": "PANTONE 159 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CC5500",
+      "rgb": [
+        204,
+        85,
+        0
+      ],
+      "lab": [
+        51.08,
+        42.57,
+        55.46
+      ]
+    },
+    {
+      "code": "PANTONE 160 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9D5B14",
+      "rgb": [
+        157,
+        91,
+        20
+      ],
+      "lab": [
+        45.22,
+        20.66,
+        42.69
+      ]
+    },
+    {
+      "code": "PANTONE 161 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#623B1B",
+      "rgb": [
+        98,
+        59,
+        27
+      ],
+      "lab": [
+        28.91,
+        12.98,
+        21.57
+      ]
+    },
+    {
+      "code": "PANTONE 162 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FCC9B5",
+      "rgb": [
+        252,
+        201,
+        181
+      ],
+      "lab": [
+        84.9,
+        13.12,
+        1.67
+      ]
+    },
+    {
+      "code": "PANTONE 163 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FFAA86",
+      "rgb": [
+        255,
+        170,
+        134
+      ],
+      "lab": [
+        77.12,
+        25.29,
+        18.81
+      ]
+    },
+    {
+      "code": "PANTONE 164 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FF8F4D",
+      "rgb": [
+        255,
+        143,
+        77
+      ],
+      "lab": [
+        70.49,
+        35.25,
+        43.19
+      ]
+    },
+    {
+      "code": "PANTONE 165 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FF671F",
+      "rgb": [
+        255,
+        103,
+        31
+      ],
+      "lab": [
+        62.56,
+        53.02,
+        57.68
+      ]
+    },
+    {
+      "code": "PANTONE 166 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E35205",
+      "rgb": [
+        227,
+        82,
+        5
+      ],
+      "lab": [
+        54.43,
+        52.17,
+        57.98
+      ]
+    },
+    {
+      "code": "PANTONE 167 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#BE531C",
+      "rgb": [
+        190,
+        83,
+        28
+      ],
+      "lab": [
+        48.54,
+        38.69,
+        44.07
+      ]
+    },
+    {
+      "code": "PANTONE 168 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#69391E",
+      "rgb": [
+        105,
+        57,
+        30
+      ],
+      "lab": [
+        29.47,
+        17.66,
+        20.58
+      ]
+    },
+    {
+      "code": "PANTONE Red 032 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#EF3340",
+      "rgb": [
+        239,
+        51,
+        64
+      ],
+      "lab": [
+        53.05,
+        68.01,
+        31.45
+      ]
+    },
+    {
+      "code": "PANTONE Warm Red C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F9423A",
+      "rgb": [
+        249,
+        66,
+        58
+      ],
+      "lab": [
+        56.43,
+        66.15,
+        39.15
+      ]
+    },
+    {
+      "code": "PANTONE 169 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FFB5A0",
+      "rgb": [
+        255,
+        181,
+        160
+      ],
+      "lab": [
+        80.1,
+        22.2,
+        7.47
+      ]
+    },
+    {
+      "code": "PANTONE 170 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FF8674",
+      "rgb": [
+        255,
+        134,
+        116
+      ],
+      "lab": [
+        69.17,
+        42.28,
+        19.36
+      ]
+    },
+    {
+      "code": "PANTONE 171 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FF5E47",
+      "rgb": [
+        255,
+        94,
+        71
+      ],
+      "lab": [
+        61.42,
+        58.08,
+        37.03
+      ]
+    },
+    {
+      "code": "PANTONE 172 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FA4616",
+      "rgb": [
+        250,
+        70,
+        22
+      ],
+      "lab": [
+        56.85,
+        64.3,
+        56.93
+      ]
+    },
+    {
+      "code": "PANTONE 173 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CF4520",
+      "rgb": [
+        207,
+        69,
+        32
+      ],
+      "lab": [
+        49.04,
+        51.23,
+        43.83
+      ]
+    },
+    {
+      "code": "PANTONE 174 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#963821",
+      "rgb": [
+        150,
+        56,
+        33
+      ],
+      "lab": [
+        36.79,
+        36.93,
+        28.61
+      ]
+    },
+    {
+      "code": "PANTONE 175 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6C3225",
+      "rgb": [
+        108,
+        50,
+        37
+      ],
+      "lab": [
+        28.39,
+        23.6,
+        14.79
+      ]
+    },
+    {
+      "code": "PANTONE 176 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FFB1BB",
+      "rgb": [
+        255,
+        177,
+        187
+      ],
+      "lab": [
+        79.78,
+        27.65,
+        -8.92
+      ]
+    },
+    {
+      "code": "PANTONE 177 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FF808B",
+      "rgb": [
+        255,
+        128,
+        139
+      ],
+      "lab": [
+        68.44,
+        47.22,
+        4.38
+      ]
+    },
+    {
+      "code": "PANTONE 178 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FF585D",
+      "rgb": [
+        255,
+        88,
+        93
+      ],
+      "lab": [
+        60.81,
+        61.6,
+        23.06
+      ]
+    },
+    {
+      "code": "PANTONE 179 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E4002B",
+      "rgb": [
+        228,
+        0,
+        43
+      ],
+      "lab": [
+        47.85,
+        72.54,
+        38.42
+      ]
+    },
+    {
+      "code": "PANTONE 180 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#BE3A34",
+      "rgb": [
+        190,
+        58,
+        52
+      ],
+      "lab": [
+        44.55,
+        50.74,
+        27.11
+      ]
+    },
+    {
+      "code": "PANTONE 181 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#782F40",
+      "rgb": [
+        120,
+        47,
+        64
+      ],
+      "lab": [
+        30.39,
+        32.48,
+        -1.46
+      ]
+    },
+    {
+      "code": "PANTONE 182 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FCAFC0",
+      "rgb": [
+        252,
+        175,
+        192
+      ],
+      "lab": [
+        79.14,
+        28.32,
+        -12.85
+      ]
+    },
+    {
+      "code": "PANTONE 183 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#FB8AA1",
+      "rgb": [
+        251,
+        138,
+        161
+      ],
+      "lab": [
+        70.36,
+        43.19,
+        -6.57
+      ]
+    },
+    {
+      "code": "PANTONE 184 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F45B69",
+      "rgb": [
+        244,
+        91,
+        105
+      ],
+      "lab": [
+        59.65,
+        57.69,
+        13.68
+      ]
+    },
+    {
+      "code": "PANTONE 185 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E4002B",
+      "rgb": [
+        228,
+        0,
+        43
+      ],
+      "lab": [
+        47.85,
+        72.54,
+        38.42
+      ]
+    },
+    {
+      "code": "PANTONE 186 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#C8102E",
+      "rgb": [
+        200,
+        16,
+        46
+      ],
+      "lab": [
+        42.54,
+        64.37,
+        29.4
+      ]
+    },
+    {
+      "code": "PANTONE 187 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A6192E",
+      "rgb": [
+        166,
+        25,
+        46
+      ],
+      "lab": [
+        35.99,
+        53.89,
+        20.22
+      ]
+    },
+    {
+      "code": "PANTONE 188 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#76232F",
+      "rgb": [
+        118,
+        35,
+        47
+      ],
+      "lab": [
+        27.46,
+        35.94,
+        6.88
+      ]
+    },
+    {
+      "code": "PANTONE 189 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F8A3BC",
+      "rgb": [
+        248,
+        163,
+        188
+      ],
+      "lab": [
+        75.94,
+        32.68,
+        -15.09
+      ]
+    },
+    {
+      "code": "PANTONE 190 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F67599",
+      "rgb": [
+        246,
+        117,
+        153
+      ],
+      "lab": [
+        65.45,
+        50.93,
+        -8.64
+      ]
+    },
+    {
+      "code": "PANTONE 191 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#EF4A81",
+      "rgb": [
+        239,
+        74,
+        129
+      ],
+      "lab": [
+        56.92,
+        64.75,
+        -5.58
+      ]
+    },
+    {
+      "code": "PANTONE 192 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E40046",
+      "rgb": [
+        228,
+        0,
+        70
+      ],
+      "lab": [
+        48.19,
+        73.45,
+        21.47
+      ]
+    },
+    {
+      "code": "PANTONE 193 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#BF0D3E",
+      "rgb": [
+        191,
+        13,
+        62
+      ],
+      "lab": [
+        40.76,
+        63.18,
+        16.13
+      ]
+    },
+    {
+      "code": "PANTONE 194 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9B2743",
+      "rgb": [
+        155,
+        39,
+        67
+      ],
+      "lab": [
+        35.65,
+        47.82,
+        4.61
+      ]
+    },
+    {
+      "code": "PANTONE 195 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6F263D",
+      "rgb": [
+        111,
+        38,
+        61
+      ],
+      "lab": [
+        27.03,
+        33.44,
+        -4.23
+      ]
+    },
+    {
+      "code": "PANTONE 196 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#ECC4D7",
+      "rgb": [
+        236,
+        196,
+        215
+      ],
+      "lab": [
+        83.03,
+        15.12,
+        -21.05
+      ]
+    },
+    {
+      "code": "PANTONE 197 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E89CAE",
+      "rgb": [
+        232,
+        156,
+        174
+      ],
+      "lab": [
+        72.22,
+        28.81,
+        -12.19
+      ]
+    },
+    {
+      "code": "PANTONE 198 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#DF4661",
+      "rgb": [
+        223,
+        70,
+        97
+      ],
+      "lab": [
+        52.88,
+        59.04,
+        9.33
+      ]
+    },
+    {
+      "code": "PANTONE 199 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D50032",
+      "rgb": [
+        213,
+        0,
+        50
+      ],
+      "lab": [
+        44.77,
+        69.22,
+        29.98
+      ]
+    },
+    {
+      "code": "PANTONE 200 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#BA0C2F",
+      "rgb": [
+        186,
+        12,
+        47
+      ],
+      "lab": [
+        39.43,
+        61.41,
+        24.55
+      ]
+    },
+    {
+      "code": "PANTONE 201 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9D2235",
+      "rgb": [
+        157,
+        34,
+        53
+      ],
+      "lab": [
+        35.15,
+        49.18,
+        13.91
+      ]
+    },
+    {
+      "code": "PANTONE 202 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#862633",
+      "rgb": [
+        134,
+        38,
+        51
+      ],
+      "lab": [
+        31.1,
+        40.37,
+        9.29
+      ]
+    },
+    {
+      "code": "PANTONE 203 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#ECB3CB",
+      "rgb": [
+        236,
+        179,
+        203
+      ],
+      "lab": [
+        78.69,
+        22.24,
+        -20.26
+      ]
+    },
+    {
+      "code": "PANTONE 204 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E782A9",
+      "rgb": [
+        231,
+        130,
+        169
+      ],
+      "lab": [
+        66.38,
+        41.44,
+        -17.53
+      ]
+    },
+    {
+      "code": "PANTONE 205 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E0457B",
+      "rgb": [
+        224,
+        69,
+        123
+      ],
+      "lab": [
+        53.53,
+        61.8,
+        -6.8
+      ]
+    },
+    {
+      "code": "PANTONE 206 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CE0F69",
+      "rgb": [
+        206,
+        15,
+        105
+      ],
+      "lab": [
+        44.92,
+        69.2,
+        -7.43
+      ]
+    },
+    {
+      "code": "PANTONE 207 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A50050",
+      "rgb": [
+        165,
+        0,
+        80
+      ],
+      "lab": [
+        35.16,
+        59.65,
+        -4.99
+      ]
+    },
+    {
+      "code": "PANTONE 208 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#7C2855",
+      "rgb": [
+        124,
+        40,
+        85
+      ],
+      "lab": [
+        30.54,
+        39.74,
+        -16.27
+      ]
+    },
+    {
+      "code": "PANTONE 209 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6F2C3F",
+      "rgb": [
+        111,
+        44,
+        63
+      ],
+      "lab": [
+        28.22,
+        30.63,
+        -4.0
+      ]
+    },
+    {
+      "code": "PANTONE Rubine Red C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CE0058",
+      "rgb": [
+        206,
+        0,
+        88
+      ],
+      "lab": [
+        43.99,
+        69.42,
+        2.94
+      ]
+    },
+    {
+      "code": "PANTONE Pink C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D62598",
+      "rgb": [
+        214,
+        37,
+        152
+      ],
+      "lab": [
+        49.36,
+        71.72,
+        -32.17
+      ]
+    },
+    {
+      "code": "PANTONE 210 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F99FC9",
+      "rgb": [
+        249,
+        159,
+        201
+      ],
+      "lab": [
+        75.55,
+        36.97,
+        -23.46
+      ]
+    },
+    {
+      "code": "PANTONE 211 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F57EB6",
+      "rgb": [
+        245,
+        126,
+        182
+      ],
+      "lab": [
+        67.81,
+        49.77,
+        -23.26
+      ]
+    },
+    {
+      "code": "PANTONE 212 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#EF4A91",
+      "rgb": [
+        239,
+        74,
+        145
+      ],
+      "lab": [
+        57.36,
+        66.25,
+        -15.28
+      ]
+    },
+    {
+      "code": "PANTONE 213 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E10098",
+      "rgb": [
+        225,
+        0,
+        152
+      ],
+      "lab": [
+        49.83,
+        78.66,
+        -31.26
+      ]
+    },
+    {
+      "code": "PANTONE 214 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#C6007E",
+      "rgb": [
+        198,
+        0,
+        126
+      ],
+      "lab": [
+        43.53,
+        70.75,
+        -23.94
+      ]
+    },
+    {
+      "code": "PANTONE 215 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9E1B32",
+      "rgb": [
+        158,
+        27,
+        50
+      ],
+      "lab": [
+        34.57,
+        51.35,
+        15.36
+      ]
+    },
+    {
+      "code": "PANTONE 216 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#7B2D26",
+      "rgb": [
+        123,
+        45,
+        38
+      ],
+      "lab": [
+        29.98,
+        32.39,
+        16.62
+      ]
+    },
+    {
+      "code": "PANTONE 217 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#ECBFD1",
+      "rgb": [
+        236,
+        191,
+        209
+      ],
+      "lab": [
+        81.67,
+        16.79,
+        -19.49
+      ]
+    },
+    {
+      "code": "PANTONE 218 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E96BAA",
+      "rgb": [
+        233,
+        107,
+        170
+      ],
+      "lab": [
+        62.29,
+        53.56,
+        -24.1
+      ]
+    },
+    {
+      "code": "PANTONE 219 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#DA1884",
+      "rgb": [
+        218,
+        24,
+        132
+      ],
+      "lab": [
+        48.55,
+        72.95,
+        -20.09
+      ]
+    },
+    {
+      "code": "PANTONE 220 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A50050",
+      "rgb": [
+        165,
+        0,
+        80
+      ],
+      "lab": [
+        35.16,
+        59.65,
+        -4.99
+      ]
+    },
+    {
+      "code": "PANTONE 221 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#910048",
+      "rgb": [
+        145,
+        0,
+        72
+      ],
+      "lab": [
+        30.62,
+        54.45,
+        -6.26
+      ]
+    },
+    {
+      "code": "PANTONE 222 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6C1D45",
+      "rgb": [
+        108,
+        29,
+        69
+      ],
+      "lab": [
+        25.25,
+        37.49,
+        -12.77
+      ]
+    },
+    {
+      "code": "PANTONE 223 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#EB6FBD",
+      "rgb": [
+        235,
+        111,
+        189
+      ],
+      "lab": [
+        63.92,
+        54.86,
+        -33.51
+      ]
+    },
+    {
+      "code": "PANTONE 224 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E54C9B",
+      "rgb": [
+        229,
+        76,
+        155
+      ],
+      "lab": [
+        56.29,
+        63.85,
+        -23.5
+      ]
+    },
+    {
+      "code": "PANTONE 225 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D0006F",
+      "rgb": [
+        208,
+        0,
+        111
+      ],
+      "lab": [
+        45.03,
+        71.5,
+        -11.32
+      ]
+    },
+    {
+      "code": "PANTONE 226 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D0006F",
+      "rgb": [
+        208,
+        0,
+        111
+      ],
+      "lab": [
+        45.03,
+        71.5,
+        -11.32
+      ]
+    },
+    {
+      "code": "PANTONE 227 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A50050",
+      "rgb": [
+        165,
+        0,
+        80
+      ],
+      "lab": [
+        35.16,
+        59.65,
+        -4.99
+      ]
+    },
+    {
+      "code": "PANTONE 228 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#80225F",
+      "rgb": [
+        128,
+        34,
+        95
+      ],
+      "lab": [
+        30.79,
+        44.74,
+        -22.98
+      ]
+    },
+    {
+      "code": "PANTONE 229 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#672146",
+      "rgb": [
+        103,
+        33,
+        70
+      ],
+      "lab": [
+        25.0,
+        34.26,
+        -14.0
+      ]
+    },
+    {
+      "code": "PANTONE 230 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F5A6CD",
+      "rgb": [
+        245,
+        166,
+        205
+      ],
+      "lab": [
+        76.74,
+        32.56,
+        -24.17
+      ]
+    },
+    {
+      "code": "PANTONE 231 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F277BD",
+      "rgb": [
+        242,
+        119,
+        189
+      ],
+      "lab": [
+        66.33,
+        53.17,
+        -29.82
+      ]
+    },
+    {
+      "code": "PANTONE 232 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E04395",
+      "rgb": [
+        224,
+        67,
+        149
+      ],
+      "lab": [
+        54.07,
+        65.14,
+        -23.0
+      ]
+    },
+    {
+      "code": "PANTONE 233 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CA005D",
+      "rgb": [
+        202,
+        0,
+        93
+      ],
+      "lab": [
+        43.29,
+        68.86,
+        -1.6
+      ]
+    },
+    {
+      "code": "PANTONE 234 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A4154A",
+      "rgb": [
+        164,
+        21,
+        74
+      ],
+      "lab": [
+        35.84,
+        55.9,
+        0.21
+      ]
+    },
+    {
+      "code": "PANTONE 235 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#84193D",
+      "rgb": [
+        132,
+        25,
+        61
+      ],
+      "lab": [
+        29.26,
+        45.24,
+        -0.5
+      ]
+    },
+    {
+      "code": "PANTONE Violet C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#440099",
+      "rgb": [
+        68,
+        0,
+        153
+      ],
+      "lab": [
+        22.05,
+        55.27,
+        -77.75
+      ]
+    },
+    {
+      "code": "PANTONE Purple C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#BB29BB",
+      "rgb": [
+        187,
+        41,
+        187
+      ],
+      "lab": [
+        46.63,
+        69.8,
+        -59.48
+      ]
+    },
+    {
+      "code": "PANTONE 236 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#EFB7E1",
+      "rgb": [
+        239,
+        183,
+        225
+      ],
+      "lab": [
+        80.55,
+        24.76,
+        -30.54
+      ]
+    },
+    {
+      "code": "PANTONE 237 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E58FCE",
+      "rgb": [
+        229,
+        143,
+        206
+      ],
+      "lab": [
+        70.01,
+        39.56,
+        -34.93
+      ]
+    },
+    {
+      "code": "PANTONE 238 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#DB5DB6",
+      "rgb": [
+        219,
+        93,
+        182
+      ],
+      "lab": [
+        58.29,
+        57.5,
+        -37.84
+      ]
+    },
+    {
+      "code": "PANTONE 239 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#C724B1",
+      "rgb": [
+        199,
+        36,
+        177
+      ],
+      "lab": [
+        47.73,
+        71.92,
+        -51.18
+      ]
+    },
+    {
+      "code": "PANTONE 240 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#AF1685",
+      "rgb": [
+        175,
+        22,
+        133
+      ],
+      "lab": [
+        40.22,
+        64.13,
+        -34.12
+      ]
+    },
+    {
+      "code": "PANTONE 241 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#910F7A",
+      "rgb": [
+        145,
+        15,
+        122
+      ],
+      "lab": [
+        33.5,
+        57.71,
+        -37.46
+      ]
+    },
+    {
+      "code": "PANTONE 242 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6F1D46",
+      "rgb": [
+        111,
+        29,
+        70
+      ],
+      "lab": [
+        25.87,
+        38.53,
+        -12.54
+      ]
+    },
+    {
+      "code": "PANTONE 243 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E5BEDB",
+      "rgb": [
+        229,
+        190,
+        219
+      ],
+      "lab": [
+        81.07,
+        16.63,
+        -26.34
+      ]
+    },
+    {
+      "code": "PANTONE 244 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#DAA0CC",
+      "rgb": [
+        218,
+        160,
+        204
+      ],
+      "lab": [
+        72.5,
+        26.51,
+        -30.13
+      ]
+    },
+    {
+      "code": "PANTONE 245 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CC7BBB",
+      "rgb": [
+        204,
+        123,
+        187
+      ],
+      "lab": [
+        62.16,
+        38.94,
+        -35.32
+      ]
+    },
+    {
+      "code": "PANTONE 246 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B5179E",
+      "rgb": [
+        181,
+        23,
+        158
+      ],
+      "lab": [
+        42.62,
+        68.4,
+        -47.0
+      ]
+    },
+    {
+      "code": "PANTONE 247 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A0098A",
+      "rgb": [
+        160,
+        9,
+        138
+      ],
+      "lab": [
+        36.94,
+        63.7,
+        -42.8
+      ]
+    },
+    {
+      "code": "PANTONE 248 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#871B6A",
+      "rgb": [
+        135,
+        27,
+        106
+      ],
+      "lab": [
+        31.75,
+        50.45,
+        -29.16
+      ]
+    },
+    {
+      "code": "PANTONE 249 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#642667",
+      "rgb": [
+        100,
+        38,
+        103
+      ],
+      "lab": [
+        26.95,
+        36.5,
+        -34.97
+      ]
+    },
+    {
+      "code": "PANTONE 250 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E0BBE5",
+      "rgb": [
+        224,
+        187,
+        229
+      ],
+      "lab": [
+        80.21,
+        18.39,
+        -33.56
+      ]
+    },
+    {
+      "code": "PANTONE 251 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CE96D8",
+      "rgb": [
+        206,
+        150,
+        216
+      ],
+      "lab": [
+        69.39,
+        30.26,
+        -42.17
+      ]
+    },
+    {
+      "code": "PANTONE 252 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A05EB5",
+      "rgb": [
+        160,
+        94,
+        181
+      ],
+      "lab": [
+        50.47,
+        39.95,
+        -49.9
+      ]
+    },
+    {
+      "code": "PANTONE 253 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#84329B",
+      "rgb": [
+        132,
+        50,
+        155
+      ],
+      "lab": [
+        37.03,
+        49.42,
+        -54.38
+      ]
+    },
+    {
+      "code": "PANTONE 254 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6E2D7A",
+      "rgb": [
+        110,
+        45,
+        122
+      ],
+      "lab": [
+        30.87,
+        39.59,
+        -42.0
+      ]
+    },
+    {
+      "code": "PANTONE 255 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#582D72",
+      "rgb": [
+        88,
+        45,
+        114
+      ],
+      "lab": [
+        27.2,
+        31.85,
+        -42.44
+      ]
+    },
+    {
+      "code": "PANTONE 256 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D0A6CB",
+      "rgb": [
+        208,
+        166,
+        203
+      ],
+      "lab": [
+        72.89,
+        19.7,
+        -29.07
+      ]
+    },
+    {
+      "code": "PANTONE 257 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#BE84BB",
+      "rgb": [
+        190,
+        132,
+        187
+      ],
+      "lab": [
+        62.54,
+        29.5,
+        -34.91
+      ]
+    },
+    {
+      "code": "PANTONE 258 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#8B5BA0",
+      "rgb": [
+        139,
+        91,
+        160
+      ],
+      "lab": [
+        46.32,
+        30.91,
+        -43.03
+      ]
+    },
+    {
+      "code": "PANTONE 259 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6D2077",
+      "rgb": [
+        109,
+        32,
+        119
+      ],
+      "lab": [
+        28.42,
+        44.62,
+        -43.8
+      ]
+    },
+    {
+      "code": "PANTONE 260 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#582C83",
+      "rgb": [
+        88,
+        44,
+        131
+      ],
+      "lab": [
+        28.15,
+        36.67,
+        -52.71
+      ]
+    },
+    {
+      "code": "PANTONE 261 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#4B266B",
+      "rgb": [
+        75,
+        38,
+        107
+      ],
+      "lab": [
+        23.48,
+        30.64,
+        -43.53
+      ]
+    },
+    {
+      "code": "PANTONE 262 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#3E2B5C",
+      "rgb": [
+        62,
+        43,
+        92
+      ],
+      "lab": [
+        22.03,
+        19.76,
+        -35.18
+      ]
+    },
+    {
+      "code": "PANTONE Reflex Blue C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#001489",
+      "rgb": [
+        0,
+        20,
+        137
+      ],
+      "lab": [
+        17.02,
+        41.16,
+        -75.32
+      ]
+    },
+    {
+      "code": "PANTONE Process Blue C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#0085CA",
+      "rgb": [
+        0,
+        133,
+        202
+      ],
+      "lab": [
+        52.99,
+        -6.19,
+        -59.81
+      ]
+    },
+    {
+      "code": "PANTONE 263 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D4C5E2",
+      "rgb": [
+        212,
+        197,
+        226
+      ],
+      "lab": [
+        81.52,
+        8.5,
+        -29.97
+      ]
+    },
+    {
+      "code": "PANTONE 264 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B7A3D6",
+      "rgb": [
+        183,
+        163,
+        214
+      ],
+      "lab": [
+        70.26,
+        15.35,
+        -39.87
+      ]
+    },
+    {
+      "code": "PANTONE 265 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9678D3",
+      "rgb": [
+        150,
+        120,
+        211
+      ],
+      "lab": [
+        56.7,
+        29.34,
+        -59.1
+      ]
+    },
+    {
+      "code": "PANTONE 266 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6F2DA8",
+      "rgb": [
+        111,
+        45,
+        168
+      ],
+      "lab": [
+        34.16,
+        50.07,
+        -67.74
+      ]
+    },
+    {
+      "code": "PANTONE 267 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#5F249F",
+      "rgb": [
+        95,
+        36,
+        159
+      ],
+      "lab": [
+        29.91,
+        49.01,
+        -68.76
+      ]
+    },
+    {
+      "code": "PANTONE 268 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#582C83",
+      "rgb": [
+        88,
+        44,
+        131
+      ],
+      "lab": [
+        28.15,
+        36.67,
+        -52.71
+      ]
+    },
+    {
+      "code": "PANTONE 269 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#4B2E83",
+      "rgb": [
+        75,
+        46,
+        131
+      ],
+      "lab": [
+        26.99,
+        32.56,
+        -54.67
+      ]
+    },
+    {
+      "code": "PANTONE 270 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A2A4D4",
+      "rgb": [
+        162,
+        164,
+        212
+      ],
+      "lab": [
+        68.74,
+        7.82,
+        -41.11
+      ]
+    },
+    {
+      "code": "PANTONE 271 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#8C8CD0",
+      "rgb": [
+        140,
+        140,
+        208
+      ],
+      "lab": [
+        60.68,
+        14.12,
+        -51.14
+      ]
+    },
+    {
+      "code": "PANTONE 272 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#7474C1",
+      "rgb": [
+        116,
+        116,
+        193
+      ],
+      "lab": [
+        51.9,
+        17.75,
+        -55.6
+      ]
+    },
+    {
+      "code": "PANTONE 273 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#1B1464",
+      "rgb": [
+        27,
+        20,
+        100
+      ],
+      "lab": [
+        13.55,
+        29.92,
+        -54.85
+      ]
+    },
+    {
+      "code": "PANTONE 274 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#171796",
+      "rgb": [
+        23,
+        23,
+        150
+      ],
+      "lab": [
+        20.03,
+        44.62,
+        -79.18
+      ]
+    },
+    {
+      "code": "PANTONE 275 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#1F1A4A",
+      "rgb": [
+        31,
+        26,
+        74
+      ],
+      "lab": [
+        12.76,
+        17.19,
+        -36.83
+      ]
+    },
+    {
+      "code": "PANTONE 276 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#221A40",
+      "rgb": [
+        34,
+        26,
+        64
+      ],
+      "lab": [
+        12.28,
+        14.43,
+        -29.93
+      ]
+    },
+    {
+      "code": "PANTONE 277 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A4C8E1",
+      "rgb": [
+        164,
+        200,
+        225
+      ],
+      "lab": [
+        78.83,
+        -8.26,
+        -33.74
+      ]
+    },
+    {
+      "code": "PANTONE 278 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#8AB7E9",
+      "rgb": [
+        138,
+        183,
+        233
+      ],
+      "lab": [
+        72.99,
+        -4.21,
+        -47.41
+      ]
+    },
+    {
+      "code": "PANTONE 279 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#418FDE",
+      "rgb": [
+        65,
+        143,
+        222
+      ],
+      "lab": [
+        58.07,
+        0.31,
+        -64.09
+      ]
+    },
+    {
+      "code": "PANTONE 280 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#012169",
+      "rgb": [
+        1,
+        33,
+        105
+      ],
+      "lab": [
+        16.07,
+        20.83,
+        -54.37
+      ]
+    },
+    {
+      "code": "PANTONE 281 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00205B",
+      "rgb": [
+        0,
+        32,
+        91
+      ],
+      "lab": [
+        14.33,
+        15.33,
+        -47.05
+      ]
+    },
+    {
+      "code": "PANTONE 282 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#041E42",
+      "rgb": [
+        4,
+        30,
+        66
+      ],
+      "lab": [
+        11.6,
+        5.76,
+        -32.67
+      ]
+    },
+    {
+      "code": "PANTONE 283 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9CC5E9",
+      "rgb": [
+        156,
+        197,
+        233
+      ],
+      "lab": [
+        77.8,
+        -7.02,
+        -40.04
+      ]
+    },
+    {
+      "code": "PANTONE 284 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6CACE4",
+      "rgb": [
+        108,
+        172,
+        228
+      ],
+      "lab": [
+        68.24,
+        -6.63,
+        -51.83
+      ]
+    },
+    {
+      "code": "PANTONE 285 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#0072CE",
+      "rgb": [
+        0,
+        114,
+        206
+      ],
+      "lab": [
+        47.61,
+        7.03,
+        -70.83
+      ]
+    },
+    {
+      "code": "PANTONE 286 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#0033A0",
+      "rgb": [
+        0,
+        51,
+        160
+      ],
+      "lab": [
+        26.46,
+        30.66,
+        -75.32
+      ]
+    },
+    {
+      "code": "PANTONE 287 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#003087",
+      "rgb": [
+        0,
+        48,
+        135
+      ],
+      "lab": [
+        23.21,
+        22.62,
+        -63.75
+      ]
+    },
+    {
+      "code": "PANTONE 288 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#002868",
+      "rgb": [
+        0,
+        40,
+        104
+      ],
+      "lab": [
+        17.99,
+        15.1,
+        -50.53
+      ]
+    },
+    {
+      "code": "PANTONE 289 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#0C2340",
+      "rgb": [
+        12,
+        35,
+        64
+      ],
+      "lab": [
+        13.53,
+        2.27,
+        -28.05
+      ]
+    },
+    {
+      "code": "PANTONE 290 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B9D9EB",
+      "rgb": [
+        185,
+        217,
+        235
+      ],
+      "lab": [
+        84.96,
+        -8.77,
+        -30.38
+      ]
+    },
+    {
+      "code": "PANTONE 291 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9BCBEB",
+      "rgb": [
+        155,
+        203,
+        235
+      ],
+      "lab": [
+        79.43,
+        -10.0,
+        -38.79
+      ]
+    },
+    {
+      "code": "PANTONE 292 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#69B3E7",
+      "rgb": [
+        105,
+        179,
+        231
+      ],
+      "lab": [
+        70.18,
+        -10.23,
+        -50.65
+      ]
+    },
+    {
+      "code": "PANTONE 293 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#003DA5",
+      "rgb": [
+        0,
+        61,
+        165
+      ],
+      "lab": [
+        29.55,
+        25.84,
+        -73.6
+      ]
+    },
+    {
+      "code": "PANTONE 294 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#002F6C",
+      "rgb": [
+        0,
+        47,
+        108
+      ],
+      "lab": [
+        20.5,
+        11.66,
+        -49.32
+      ]
+    },
+    {
+      "code": "PANTONE 295 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#002855",
+      "rgb": [
+        0,
+        40,
+        85
+      ],
+      "lab": [
+        16.37,
+        6.41,
+        -39.34
+      ]
+    },
+    {
+      "code": "PANTONE 296 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#041E42",
+      "rgb": [
+        4,
+        30,
+        66
+      ],
+      "lab": [
+        11.6,
+        5.76,
+        -32.67
+      ]
+    },
+    {
+      "code": "PANTONE 297 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#71C5E8",
+      "rgb": [
+        113,
+        197,
+        232
+      ],
+      "lab": [
+        75.62,
+        -17.89,
+        -42.96
+      ]
+    },
+    {
+      "code": "PANTONE 298 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#41B6E6",
+      "rgb": [
+        65,
+        182,
+        230
+      ],
+      "lab": [
+        69.67,
+        -18.89,
+        -50.95
+      ]
+    },
+    {
+      "code": "PANTONE 299 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00A3E0",
+      "rgb": [
+        0,
+        163,
+        224
+      ],
+      "lab": [
+        62.99,
+        -15.19,
+        -57.72
+      ]
+    },
+    {
+      "code": "PANTONE 300 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#005EB8",
+      "rgb": [
+        0,
+        94,
+        184
+      ],
+      "lab": [
+        40.35,
+        11.18,
+        -68.49
+      ]
+    },
+    {
+      "code": "PANTONE 301 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#004B87",
+      "rgb": [
+        0,
+        75,
+        135
+      ],
+      "lab": [
+        31.3,
+        3.57,
+        -50.7
+      ]
+    },
+    {
+      "code": "PANTONE 302 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#003B5C",
+      "rgb": [
+        0,
+        59,
+        92
+      ],
+      "lab": [
+        23.34,
+        -4.09,
+        -33.38
+      ]
+    },
+    {
+      "code": "PANTONE 303 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#002A3A",
+      "rgb": [
+        0,
+        42,
+        58
+      ],
+      "lab": [
+        15.28,
+        -7.54,
+        -20.75
+      ]
+    },
+    {
+      "code": "PANTONE Cyan C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00B5E2",
+      "rgb": [
+        0,
+        181,
+        226
+      ],
+      "lab": [
+        68.41,
+        -24.12,
+        -50.56
+      ]
+    },
+    {
+      "code": "PANTONE 304 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9BD3DC",
+      "rgb": [
+        155,
+        211,
+        220
+      ],
+      "lab": [
+        81.14,
+        -17.74,
+        -27.46
+      ]
+    },
+    {
+      "code": "PANTONE 305 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#5BC2E7",
+      "rgb": [
+        91,
+        194,
+        231
+      ],
+      "lab": [
+        73.92,
+        -20.91,
+        -45.01
+      ]
+    },
+    {
+      "code": "PANTONE 306 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00B5E2",
+      "rgb": [
+        0,
+        181,
+        226
+      ],
+      "lab": [
+        68.41,
+        -24.12,
+        -50.56
+      ]
+    },
+    {
+      "code": "PANTONE 307 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#0F689A",
+      "rgb": [
+        15,
+        104,
+        154
+      ],
+      "lab": [
+        41.74,
+        -6.55,
+        -46.85
+      ]
+    },
+    {
+      "code": "PANTONE 308 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00587C",
+      "rgb": [
+        0,
+        88,
+        124
+      ],
+      "lab": [
+        34.87,
+        -9.44,
+        -37.64
+      ]
+    },
+    {
+      "code": "PANTONE 309 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#003B49",
+      "rgb": [
+        0,
+        59,
+        73
+      ],
+      "lab": [
+        22.33,
+        -12.17,
+        -21.17
+      ]
+    },
+    {
+      "code": "PANTONE 310 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6AD1E3",
+      "rgb": [
+        106,
+        209,
+        227
+      ],
+      "lab": [
+        78.58,
+        -26.86,
+        -35.59
+      ]
+    },
+    {
+      "code": "PANTONE 311 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#0DBBD7",
+      "rgb": [
+        13,
+        187,
+        215
+      ],
+      "lab": [
+        69.84,
+        -30.47,
+        -41.77
+      ]
+    },
+    {
+      "code": "PANTONE 312 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00A9CE",
+      "rgb": [
+        0,
+        169,
+        206
+      ],
+      "lab": [
+        64.02,
+        -24.72,
+        -45.19
+      ]
+    },
+    {
+      "code": "PANTONE 313 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#0083A9",
+      "rgb": [
+        0,
+        131,
+        169
+      ],
+      "lab": [
+        50.8,
+        -17.38,
+        -42.47
+      ]
+    },
+    {
+      "code": "PANTONE 314 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#006A8E",
+      "rgb": [
+        0,
+        106,
+        142
+      ],
+      "lab": [
+        41.63,
+        -13.2,
+        -39.18
+      ]
+    },
+    {
+      "code": "PANTONE 315 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#005670",
+      "rgb": [
+        0,
+        86,
+        112
+      ],
+      "lab": [
+        33.61,
+        -12.99,
+        -31.42
+      ]
+    },
+    {
+      "code": "PANTONE 316 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#004851",
+      "rgb": [
+        0,
+        72,
+        81
+      ],
+      "lab": [
+        27.38,
+        -16.78,
+        -19.3
+      ]
+    },
+    {
+      "code": "PANTONE 317 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#BFE7E5",
+      "rgb": [
+        191,
+        231,
+        229
+      ],
+      "lab": [
+        88.87,
+        -15.41,
+        -21.17
+      ]
+    },
+    {
+      "code": "PANTONE 318 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#88DBDF",
+      "rgb": [
+        136,
+        219,
+        223
+      ],
+      "lab": [
+        82.5,
+        -26.1,
+        -27.33
+      ]
+    },
+    {
+      "code": "PANTONE 319 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#2DCCD3",
+      "rgb": [
+        45,
+        204,
+        211
+      ],
+      "lab": [
+        75.1,
+        -37.97,
+        -31.48
+      ]
+    },
+    {
+      "code": "PANTONE 320 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#009CA6",
+      "rgb": [
+        0,
+        156,
+        166
+      ],
+      "lab": [
+        58.53,
+        -31.5,
+        -28.86
+      ]
+    },
+    {
+      "code": "PANTONE 321 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#008996",
+      "rgb": [
+        0,
+        137,
+        150
+      ],
+      "lab": [
+        51.94,
+        -27.27,
+        -28.65
+      ]
+    },
+    {
+      "code": "PANTONE 322 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#007681",
+      "rgb": [
+        0,
+        118,
+        129
+      ],
+      "lab": [
+        45.0,
+        -24.62,
+        -25.51
+      ]
+    },
+    {
+      "code": "PANTONE 323 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#005F61",
+      "rgb": [
+        0,
+        95,
+        97
+      ],
+      "lab": [
+        36.07,
+        -23.62,
+        -17.46
+      ]
+    },
+    {
+      "code": "PANTONE 324 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9CDBD9",
+      "rgb": [
+        156,
+        219,
+        217
+      ],
+      "lab": [
+        83.3,
+        -22.2,
+        -22.54
+      ]
+    },
+    {
+      "code": "PANTONE 325 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#64CCC9",
+      "rgb": [
+        100,
+        204,
+        201
+      ],
+      "lab": [
+        76.14,
+        -32.54,
+        -23.89
+      ]
+    },
+    {
+      "code": "PANTONE 326 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00B2A9",
+      "rgb": [
+        0,
+        178,
+        169
+      ],
+      "lab": [
+        65.52,
+        -40.92,
+        -20.41
+      ]
+    },
+    {
+      "code": "PANTONE 327 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#008576",
+      "rgb": [
+        0,
+        133,
+        118
+      ],
+      "lab": [
+        49.59,
+        -35.51,
+        -11.63
+      ]
+    },
+    {
+      "code": "PANTONE 328 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#007360",
+      "rgb": [
+        0,
+        115,
+        96
+      ],
+      "lab": [
+        42.92,
+        -33.73,
+        -6.87
+      ]
+    },
+    {
+      "code": "PANTONE 329 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00665E",
+      "rgb": [
+        0,
+        102,
+        94
+      ],
+      "lab": [
+        38.39,
+        -28.17,
+        -12.03
+      ]
+    },
+    {
+      "code": "PANTONE 330 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00524C",
+      "rgb": [
+        0,
+        82,
+        76
+      ],
+      "lab": [
+        30.77,
+        -24.01,
+        -10.75
+      ]
+    },
+    {
+      "code": "PANTONE Green C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00AB84",
+      "rgb": [
+        0,
+        171,
+        132
+      ],
+      "lab": [
+        62.33,
+        -48.08,
+        -2.39
+      ]
+    },
+    {
+      "code": "PANTONE 331 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A4E5D9",
+      "rgb": [
+        164,
+        229,
+        217
+      ],
+      "lab": [
+        86.47,
+        -24.91,
+        -17.9
+      ]
+    },
+    {
+      "code": "PANTONE 332 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#8FE0CF",
+      "rgb": [
+        143,
+        224,
+        207
+      ],
+      "lab": [
+        83.78,
+        -30.45,
+        -16.11
+      ]
+    },
+    {
+      "code": "PANTONE 333 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#3CDBC0",
+      "rgb": [
+        60,
+        219,
+        192
+      ],
+      "lab": [
+        79.29,
+        -48.34,
+        -14.17
+      ]
+    },
+    {
+      "code": "PANTONE 334 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#009A78",
+      "rgb": [
+        0,
+        154,
+        120
+      ],
+      "lab": [
+        56.55,
+        -44.14,
+        -3.05
+      ]
+    },
+    {
+      "code": "PANTONE 335 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#007A53",
+      "rgb": [
+        0,
+        122,
+        83
+      ],
+      "lab": [
+        45.0,
+        -40.23,
+        4.45
+      ]
+    },
+    {
+      "code": "PANTONE 336 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00664F",
+      "rgb": [
+        0,
+        102,
+        79
+      ],
+      "lab": [
+        37.96,
+        -32.69,
+        -2.57
+      ]
+    },
+    {
+      "code": "PANTONE 337 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9ADBC6",
+      "rgb": [
+        154,
+        219,
+        198
+      ],
+      "lab": [
+        82.7,
+        -26.86,
+        -12.35
+      ]
+    },
+    {
+      "code": "PANTONE 338 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#7FC8B0",
+      "rgb": [
+        127,
+        200,
+        176
+      ],
+      "lab": [
+        75.42,
+        -29.94,
+        -9.96
+      ]
+    },
+    {
+      "code": "PANTONE 339 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00B388",
+      "rgb": [
+        0,
+        179,
+        136
+      ],
+      "lab": [
+        64.97,
+        -50.31,
+        -1.15
+      ]
+    },
+    {
+      "code": "PANTONE 340 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#009A44",
+      "rgb": [
+        0,
+        154,
+        68
+      ],
+      "lab": [
+        55.61,
+        -54.95,
+        26.71
+      ]
+    },
+    {
+      "code": "PANTONE 341 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00843D",
+      "rgb": [
+        0,
+        132,
+        61
+      ],
+      "lab": [
+        48.06,
+        -48.52,
+        21.8
+      ]
+    },
+    {
+      "code": "PANTONE 342 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#006747",
+      "rgb": [
+        0,
+        103,
+        71
+      ],
+      "lab": [
+        38.12,
+        -35.28,
+        2.97
+      ]
+    },
+    {
+      "code": "PANTONE 343 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#115740",
+      "rgb": [
+        17,
+        87,
+        64
+      ],
+      "lab": [
+        32.49,
+        -28.15,
+        0.04
+      ]
+    },
+    {
+      "code": "PANTONE 344 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A1DDB8",
+      "rgb": [
+        161,
+        221,
+        184
+      ],
+      "lab": [
+        83.31,
+        -28.51,
+        -3.33
+      ]
+    },
+    {
+      "code": "PANTONE 345 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#85CFA0",
+      "rgb": [
+        133,
+        207,
+        160
+      ],
+      "lab": [
+        77.37,
+        -34.82,
+        2.19
+      ]
+    },
+    {
+      "code": "PANTONE 346 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#5BAA84",
+      "rgb": [
+        91,
+        170,
+        132
+      ],
+      "lab": [
+        63.87,
+        -34.83,
+        0.02
+      ]
+    },
+    {
+      "code": "PANTONE 347 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#009A44",
+      "rgb": [
+        0,
+        154,
+        68
+      ],
+      "lab": [
+        55.61,
+        -54.95,
+        26.71
+      ]
+    },
+    {
+      "code": "PANTONE 348 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00843D",
+      "rgb": [
+        0,
+        132,
+        61
+      ],
+      "lab": [
+        48.06,
+        -48.52,
+        21.8
+      ]
+    },
+    {
+      "code": "PANTONE 349 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#046A38",
+      "rgb": [
+        4,
+        106,
+        56
+      ],
+      "lab": [
+        38.93,
+        -39.55,
+        13.73
+      ]
+    },
+    {
+      "code": "PANTONE 350 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#274E37",
+      "rgb": [
+        39,
+        78,
+        55
+      ],
+      "lab": [
+        29.8,
+        -20.8,
+        2.69
+      ]
+    },
+    {
+      "code": "PANTONE 351 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B6DBB1",
+      "rgb": [
+        182,
+        219,
+        177
+      ],
+      "lab": [
+        83.85,
+        -21.96,
+        1.66
+      ]
+    },
+    {
+      "code": "PANTONE 352 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A0D199",
+      "rgb": [
+        160,
+        209,
+        153
+      ],
+      "lab": [
+        79.26,
+        -28.45,
+        9.05
+      ]
+    },
+    {
+      "code": "PANTONE 353 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#84BD93",
+      "rgb": [
+        132,
+        189,
+        147
+      ],
+      "lab": [
+        71.83,
+        -28.91,
+        2.26
+      ]
+    },
+    {
+      "code": "PANTONE 354 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#00B140",
+      "rgb": [
+        0,
+        177,
+        64
+      ],
+      "lab": [
+        63.19,
+        -62.92,
+        37.19
+      ]
+    },
+    {
+      "code": "PANTONE 355 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#009639",
+      "rgb": [
+        0,
+        150,
+        57
+      ],
+      "lab": [
+        54.14,
+        -55.19,
+        30.92
+      ]
+    },
+    {
+      "code": "PANTONE 356 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#007A33",
+      "rgb": [
+        0,
+        122,
+        51
+      ],
+      "lab": [
+        44.46,
+        -46.62,
+        23.32
+      ]
+    },
+    {
+      "code": "PANTONE 357 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#215732",
+      "rgb": [
+        33,
+        87,
+        50
+      ],
+      "lab": [
+        32.63,
+        -28.15,
+        9.75
+      ]
+    },
+    {
+      "code": "PANTONE 358 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#AFD493",
+      "rgb": [
+        175,
+        212,
+        147
+      ],
+      "lab": [
+        80.91,
+        -25.65,
+        14.84
+      ]
+    },
+    {
+      "code": "PANTONE 359 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A0CC81",
+      "rgb": [
+        160,
+        204,
+        129
+      ],
+      "lab": [
+        77.43,
+        -29.63,
+        20.37
+      ]
+    },
+    {
+      "code": "PANTONE 360 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6CC24A",
+      "rgb": [
+        108,
+        194,
+        74
+      ],
+      "lab": [
+        71.05,
+        -49.28,
+        41.45
+      ]
+    },
+    {
+      "code": "PANTONE 361 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#43B02A",
+      "rgb": [
+        67,
+        176,
+        42
+      ],
+      "lab": [
+        63.68,
+        -56.33,
+        47.52
+      ]
+    },
+    {
+      "code": "PANTONE 362 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#3F9C35",
+      "rgb": [
+        63,
+        156,
+        53
+      ],
+      "lab": [
+        57.16,
+        -48.98,
+        36.45
+      ]
+    },
+    {
+      "code": "PANTONE 363 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#3A8332",
+      "rgb": [
+        58,
+        131,
+        50
+      ],
+      "lab": [
+        48.71,
+        -40.65,
+        28.95
+      ]
+    },
+    {
+      "code": "PANTONE 364 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#4A7729",
+      "rgb": [
+        74,
+        119,
+        41
+      ],
+      "lab": [
+        45.37,
+        -31.03,
+        30.32
+      ]
+    },
+    {
+      "code": "PANTONE 365 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D0DEBE",
+      "rgb": [
+        208,
+        222,
+        190
+      ],
+      "lab": [
+        86.69,
+        -12.39,
+        -1.65
+      ]
+    },
+    {
+      "code": "PANTONE 366 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#C2D6A6",
+      "rgb": [
+        194,
+        214,
+        166
+      ],
+      "lab": [
+        83.08,
+        -17.04,
+        7.07
+      ]
+    },
+    {
+      "code": "PANTONE 367 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A4D65E",
+      "rgb": [
+        164,
+        214,
+        94
+      ],
+      "lab": [
+        80.06,
+        -36.93,
+        42.25
+      ]
+    },
+    {
+      "code": "PANTONE 368 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#78BE20",
+      "rgb": [
+        120,
+        190,
+        32
+      ],
+      "lab": [
+        70.12,
+        -46.46,
+        57.1
+      ]
+    },
+    {
+      "code": "PANTONE 369 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#64A70B",
+      "rgb": [
+        100,
+        167,
+        11
+      ],
+      "lab": [
+        61.97,
+        -44.45,
+        55.0
+      ]
+    },
+    {
+      "code": "PANTONE 370 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#509E2F",
+      "rgb": [
+        80,
+        158,
+        47
+      ],
+      "lab": [
+        58.38,
+        -45.57,
+        40.65
+      ]
+    },
+    {
+      "code": "PANTONE 371 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#54622B",
+      "rgb": [
+        84,
+        98,
+        43
+      ],
+      "lab": [
+        39.23,
+        -15.89,
+        22.78
+      ]
+    },
+    {
+      "code": "PANTONE 372 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D4ED91",
+      "rgb": [
+        212,
+        237,
+        145
+      ],
+      "lab": [
+        90.14,
+        -24.68,
+        28.19
+      ]
+    },
+    {
+      "code": "PANTONE 373 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#C5E86C",
+      "rgb": [
+        197,
+        232,
+        108
+      ],
+      "lab": [
+        87.32,
+        -31.72,
+        43.91
+      ]
+    },
+    {
+      "code": "PANTONE 374 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B5E550",
+      "rgb": [
+        181,
+        229,
+        80
+      ],
+      "lab": [
+        85.22,
+        -38.59,
+        54.45
+      ]
+    },
+    {
+      "code": "PANTONE 375 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#97D700",
+      "rgb": [
+        151,
+        215,
+        0
+      ],
+      "lab": [
+        79.14,
+        -46.56,
+        69.57
+      ]
+    },
+    {
+      "code": "PANTONE 376 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#84BD00",
+      "rgb": [
+        132,
+        189,
+        0
+      ],
+      "lab": [
+        70.39,
+        -42.38,
+        63.16
+      ]
+    },
+    {
+      "code": "PANTONE 377 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#7A9A01",
+      "rgb": [
+        122,
+        154,
+        1
+      ],
+      "lab": [
+        59.21,
+        -30.24,
+        55.21
+      ]
+    },
+    {
+      "code": "PANTONE 378 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#5E7E29",
+      "rgb": [
+        94,
+        126,
+        41
+      ],
+      "lab": [
+        48.84,
+        -26.56,
+        34.24
+      ]
+    },
+    {
+      "code": "PANTONE Black C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#2D2926",
+      "rgb": [
+        45,
+        41,
+        38
+      ],
+      "lab": [
+        16.91,
+        0.49,
+        -2.61
+      ]
+    },
+    {
+      "code": "PANTONE 462 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#674C2A",
+      "rgb": [
+        103,
+        76,
+        42
+      ],
+      "lab": [
+        34.44,
+        5.96,
+        18.4
+      ]
+    },
+    {
+      "code": "PANTONE 463 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#7A552B",
+      "rgb": [
+        122,
+        85,
+        43
+      ],
+      "lab": [
+        39.26,
+        9.43,
+        23.87
+      ]
+    },
+    {
+      "code": "PANTONE 464 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#8B5A2B",
+      "rgb": [
+        139,
+        90,
+        43
+      ],
+      "lab": [
+        42.73,
+        14.21,
+        28.25
+      ]
+    },
+    {
+      "code": "PANTONE 465 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B89D5C",
+      "rgb": [
+        184,
+        157,
+        92
+      ],
+      "lab": [
+        65.81,
+        -0.23,
+        27.47
+      ]
+    },
+    {
+      "code": "PANTONE 466 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#C5A875",
+      "rgb": [
+        197,
+        168,
+        117
+      ],
+      "lab": [
+        70.29,
+        1.72,
+        18.79
+      ]
+    },
+    {
+      "code": "PANTONE 467 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CFAA7B",
+      "rgb": [
+        207,
+        170,
+        123
+      ],
+      "lab": [
+        71.86,
+        5.32,
+        17.48
+      ]
+    },
+    {
+      "code": "PANTONE 468 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#DCBC8C",
+      "rgb": [
+        220,
+        188,
+        140
+      ],
+      "lab": [
+        77.92,
+        2.76,
+        15.63
+      ]
+    },
+    {
+      "code": "PANTONE 469 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#693F23",
+      "rgb": [
+        105,
+        63,
+        35
+      ],
+      "lab": [
+        31.07,
+        14.35,
+        19.11
+      ]
+    },
+    {
+      "code": "PANTONE 470 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A1592D",
+      "rgb": [
+        161,
+        89,
+        45
+      ],
+      "lab": [
+        45.52,
+        24.5,
+        30.94
+      ]
+    },
+    {
+      "code": "PANTONE 471 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B05A1B",
+      "rgb": [
+        176,
+        90,
+        27
+      ],
+      "lab": [
+        47.78,
+        29.49,
+        42.99
+      ]
+    },
+    {
+      "code": "PANTONE 472 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E8B595",
+      "rgb": [
+        232,
+        181,
+        149
+      ],
+      "lab": [
+        77.51,
+        12.2,
+        10.05
+      ]
+    },
+    {
+      "code": "PANTONE 473 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#EFC79C",
+      "rgb": [
+        239,
+        199,
+        156
+      ],
+      "lab": [
+        82.7,
+        6.18,
+        12.98
+      ]
+    },
+    {
+      "code": "PANTONE 474 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F1D2B0",
+      "rgb": [
+        241,
+        210,
+        176
+      ],
+      "lab": [
+        85.97,
+        3.68,
+        5.86
+      ]
+    },
+    {
+      "code": "PANTONE 475 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#F2D6BD",
+      "rgb": [
+        242,
+        214,
+        189
+      ],
+      "lab": [
+        87.31,
+        3.74,
+        0.21
+      ]
+    },
+    {
+      "code": "PANTONE 476 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#5C432C",
+      "rgb": [
+        92,
+        67,
+        44
+      ],
+      "lab": [
+        30.57,
+        6.59,
+        12.12
+      ]
+    },
+    {
+      "code": "PANTONE 477 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#653619",
+      "rgb": [
+        101,
+        54,
+        25
+      ],
+      "lab": [
+        28.05,
+        17.33,
+        22.05
+      ]
+    },
+    {
+      "code": "PANTONE 478 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6E2C00",
+      "rgb": [
+        110,
+        44,
+        0
+      ],
+      "lab": [
+        27.07,
+        26.2,
+        35.31
+      ]
+    },
+    {
+      "code": "PANTONE 479 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#C7A98C",
+      "rgb": [
+        199,
+        169,
+        140
+      ],
+      "lab": [
+        71.15,
+        4.78,
+        6.34
+      ]
+    },
+    {
+      "code": "PANTONE 480 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D2B49A",
+      "rgb": [
+        210,
+        180,
+        154
+      ],
+      "lab": [
+        75.25,
+        4.95,
+        3.71
+      ]
+    },
+    {
+      "code": "PANTONE 481 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#DFC8AC",
+      "rgb": [
+        223,
+        200,
+        172
+      ],
+      "lab": [
+        81.83,
+        1.7,
+        2.28
+      ]
+    },
+    {
+      "code": "PANTONE 482 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#E5D3B7",
+      "rgb": [
+        229,
+        211,
+        183
+      ],
+      "lab": [
+        85.34,
+        -0.29,
+        0.78
+      ]
+    },
+    {
+      "code": "PANTONE 483 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#5D311A",
+      "rgb": [
+        93,
+        49,
+        26
+      ],
+      "lab": [
+        25.56,
+        16.76,
+        18.38
+      ]
+    },
+    {
+      "code": "PANTONE 484 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#9A3324",
+      "rgb": [
+        154,
+        51,
+        36
+      ],
+      "lab": [
+        36.68,
+        40.82,
+        26.9
+      ]
+    },
+    {
+      "code": "PANTONE 485 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#DA291C",
+      "rgb": [
+        218,
+        41,
+        28
+      ],
+      "lab": [
+        47.73,
+        63.82,
+        45.72
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 1 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D9D9D6",
+      "rgb": [
+        217,
+        217,
+        214
+      ],
+      "lab": [
+        86.62,
+        -2.65,
+        -15.51
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 2 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D0D0CE",
+      "rgb": [
+        208,
+        208,
+        206
+      ],
+      "lab": [
+        83.43,
+        -2.41,
+        -15.51
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 3 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#C8C9C7",
+      "rgb": [
+        200,
+        201,
+        199
+      ],
+      "lab": [
+        80.84,
+        -2.7,
+        -15.2
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 4 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#BBBCBC",
+      "rgb": [
+        187,
+        188,
+        188
+      ],
+      "lab": [
+        76.17,
+        -2.24,
+        -15.52
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 5 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B1B3B3",
+      "rgb": [
+        177,
+        179,
+        179
+      ],
+      "lab": [
+        72.79,
+        -2.53,
+        -15.09
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 6 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A7A8AA",
+      "rgb": [
+        167,
+        168,
+        170
+      ],
+      "lab": [
+        68.84,
+        -1.72,
+        -15.43
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 7 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#97999B",
+      "rgb": [
+        151,
+        153,
+        155
+      ],
+      "lab": [
+        63.12,
+        -1.96,
+        -14.63
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 8 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#888B8D",
+      "rgb": [
+        136,
+        139,
+        141
+      ],
+      "lab": [
+        57.68,
+        -2.21,
+        -13.89
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 9 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#75787B",
+      "rgb": [
+        117,
+        120,
+        123
+      ],
+      "lab": [
+        50.27,
+        -1.87,
+        -13.29
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 10 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#63666A",
+      "rgb": [
+        99,
+        102,
+        106
+      ],
+      "lab": [
+        43.06,
+        -1.51,
+        -12.77
+      ]
+    },
+    {
+      "code": "PANTONE Cool Gray 11 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#53565A",
+      "rgb": [
+        83,
+        86,
+        90
+      ],
+      "lab": [
+        36.43,
+        -1.38,
+        -11.75
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 1 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#D7D2CB",
+      "rgb": [
+        215,
+        210,
+        203
+      ],
+      "lab": [
+        84.41,
+        -1.58,
+        -12.29
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 2 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#CECAC4",
+      "rgb": [
+        206,
+        202,
+        196
+      ],
+      "lab": [
+        81.48,
+        -1.69,
+        -12.46
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 3 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#BFB8AF",
+      "rgb": [
+        191,
+        184,
+        175
+      ],
+      "lab": [
+        75.11,
+        -1.0,
+        -9.24
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 4 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#B6ADA5",
+      "rgb": [
+        182,
+        173,
+        165
+      ],
+      "lab": [
+        71.25,
+        -0.0,
+        -8.8
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 5 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#ADA59C",
+      "rgb": [
+        173,
+        165,
+        156
+      ],
+      "lab": [
+        68.16,
+        -0.46,
+        -7.81
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 6 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#A39990",
+      "rgb": [
+        163,
+        153,
+        144
+      ],
+      "lab": [
+        63.82,
+        0.41,
+        -6.7
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 7 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#968981",
+      "rgb": [
+        150,
+        137,
+        129
+      ],
+      "lab": [
+        58.0,
+        1.92,
+        -5.72
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 8 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#8B7E74",
+      "rgb": [
+        139,
+        126,
+        116
+      ],
+      "lab": [
+        53.68,
+        1.73,
+        -3.69
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 9 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#83786F",
+      "rgb": [
+        131,
+        120,
+        111
+      ],
+      "lab": [
+        51.16,
+        1.2,
+        -4.12
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 10 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#796E65",
+      "rgb": [
+        121,
+        110,
+        101
+      ],
+      "lab": [
+        47.18,
+        1.34,
+        -3.33
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 11 C",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#6A5F55",
+      "rgb": [
+        106,
+        95,
+        85
+      ],
+      "lab": [
+        41.06,
+        1.4,
+        -1.48
+      ]
+    },
+    {
+      "code": "PANTONE 871 C (Metallic Gold)",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#896C42",
+      "rgb": [
+        137,
+        108,
+        66
+      ],
+      "lab": [
+        47.54,
+        4.61,
+        19.84
+      ]
+    },
+    {
+      "code": "PANTONE 872 C (Metallic Gold)",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#866B3D",
+      "rgb": [
+        134,
+        107,
+        61
+      ],
+      "lab": [
+        46.87,
+        3.37,
+        22.02
+      ]
+    },
+    {
+      "code": "PANTONE 873 C (Metallic Gold)",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#866B3F",
+      "rgb": [
+        134,
+        107,
+        63
+      ],
+      "lab": [
+        46.9,
+        3.56,
+        20.84
+      ]
+    },
+    {
+      "code": "PANTONE 874 C (Metallic Gold)",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#80683C",
+      "rgb": [
+        128,
+        104,
+        60
+      ],
+      "lab": [
+        45.38,
+        2.34,
+        20.71
+      ]
+    },
+    {
+      "code": "PANTONE 875 C (Metallic Copper)",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#7A5037",
+      "rgb": [
+        122,
+        80,
+        55
+      ],
+      "lab": [
+        38.11,
+        13.48,
+        14.94
+      ]
+    },
+    {
+      "code": "PANTONE 876 C (Metallic Copper)",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#7B4D33",
+      "rgb": [
+        123,
+        77,
+        51
+      ],
+      "lab": [
+        37.41,
+        15.35,
+        16.73
+      ]
+    },
+    {
+      "code": "PANTONE 877 C (Metallic Silver)",
+      "system": "PANTONE",
+      "finish": "Coated",
+      "hex": "#8A8D8F",
+      "rgb": [
+        138,
+        141,
+        143
+      ],
+      "lab": [
+        58.45,
+        -2.23,
+        -14.01
+      ]
+    },
+    {
+      "code": "PANTONE Yellow U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E9CB00",
+      "rgb": [
+        233,
+        203,
+        0
+      ],
+      "lab": [
+        81.86,
+        -7.23,
+        74.26
+      ]
+    },
+    {
+      "code": "PANTONE 100 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E1D35B",
+      "rgb": [
+        225,
+        211,
+        91
+      ],
+      "lab": [
+        83.63,
+        -11.68,
+        48.84
+      ]
+    },
+    {
+      "code": "PANTONE 101 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E0DA41",
+      "rgb": [
+        224,
+        218,
+        65
+      ],
+      "lab": [
+        85.19,
+        -17.09,
+        61.62
+      ]
+    },
+    {
+      "code": "PANTONE 102 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E6D400",
+      "rgb": [
+        230,
+        212,
+        0
+      ],
+      "lab": [
+        83.92,
+        -13.08,
+        75.4
+      ]
+    },
+    {
+      "code": "PANTONE 103 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B6A002",
+      "rgb": [
+        182,
+        160,
+        2
+      ],
+      "lab": [
+        65.82,
+        -6.95,
+        61.73
+      ]
+    },
+    {
+      "code": "PANTONE 104 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#9E8A00",
+      "rgb": [
+        158,
+        138,
+        0
+      ],
+      "lab": [
+        57.51,
+        -5.91,
+        55.75
+      ]
+    },
+    {
+      "code": "PANTONE 105 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7E6D2E",
+      "rgb": [
+        126,
+        109,
+        46
+      ],
+      "lab": [
+        46.41,
+        -2.7,
+        29.98
+      ]
+    },
+    {
+      "code": "PANTONE 106 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E3D665",
+      "rgb": [
+        227,
+        214,
+        101
+      ],
+      "lab": [
+        84.67,
+        -11.67,
+        45.11
+      ]
+    },
+    {
+      "code": "PANTONE 107 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E2D551",
+      "rgb": [
+        226,
+        213,
+        81
+      ],
+      "lab": [
+        84.15,
+        -12.92,
+        54.04
+      ]
+    },
+    {
+      "code": "PANTONE 108 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E4CF27",
+      "rgb": [
+        228,
+        207,
+        39
+      ],
+      "lab": [
+        82.52,
+        -10.82,
+        68.12
+      ]
+    },
+    {
+      "code": "PANTONE 109 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EAC000",
+      "rgb": [
+        234,
+        192,
+        0
+      ],
+      "lab": [
+        79.15,
+        -1.12,
+        72.67
+      ]
+    },
+    {
+      "code": "PANTONE 110 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C89B00",
+      "rgb": [
+        200,
+        155,
+        0
+      ],
+      "lab": [
+        66.31,
+        3.73,
+        63.24
+      ]
+    },
+    {
+      "code": "PANTONE 111 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#9A7F00",
+      "rgb": [
+        154,
+        127,
+        0
+      ],
+      "lab": [
+        54.08,
+        -1.64,
+        53.46
+      ]
+    },
+    {
+      "code": "PANTONE 112 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#92740B",
+      "rgb": [
+        146,
+        116,
+        11
+      ],
+      "lab": [
+        50.25,
+        1.06,
+        48.3
+      ]
+    },
+    {
+      "code": "PANTONE 113 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E3CF56",
+      "rgb": [
+        227,
+        207,
+        86
+      ],
+      "lab": [
+        82.72,
+        -9.15,
+        50.33
+      ]
+    },
+    {
+      "code": "PANTONE 114 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E4CE47",
+      "rgb": [
+        228,
+        206,
+        71
+      ],
+      "lab": [
+        82.43,
+        -9.08,
+        56.81
+      ]
+    },
+    {
+      "code": "PANTONE 115 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E4CB38",
+      "rgb": [
+        228,
+        203,
+        56
+      ],
+      "lab": [
+        81.56,
+        -8.22,
+        61.95
+      ]
+    },
+    {
+      "code": "PANTONE 116 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EAC000",
+      "rgb": [
+        234,
+        192,
+        0
+      ],
+      "lab": [
+        79.15,
+        -1.12,
+        72.67
+      ]
+    },
+    {
+      "code": "PANTONE 117 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B89A02",
+      "rgb": [
+        184,
+        154,
+        2
+      ],
+      "lab": [
+        64.41,
+        -2.83,
+        60.95
+      ]
+    },
+    {
+      "code": "PANTONE 118 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#9B8200",
+      "rgb": [
+        155,
+        130,
+        0
+      ],
+      "lab": [
+        55.01,
+        -2.85,
+        54.07
+      ]
+    },
+    {
+      "code": "PANTONE 119 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7A6200",
+      "rgb": [
+        122,
+        98,
+        0
+      ],
+      "lab": [
+        42.57,
+        -0.13,
+        44.78
+      ]
+    },
+    {
+      "code": "PANTONE 120 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E2CA6E",
+      "rgb": [
+        226,
+        202,
+        110
+      ],
+      "lab": [
+        81.59,
+        -5.21,
+        36.99
+      ]
+    },
+    {
+      "code": "PANTONE 121 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E2C75C",
+      "rgb": [
+        226,
+        199,
+        92
+      ],
+      "lab": [
+        80.62,
+        -5.05,
+        45.21
+      ]
+    },
+    {
+      "code": "PANTONE 122 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E6BD38",
+      "rgb": [
+        230,
+        189,
+        56
+      ],
+      "lab": [
+        78.17,
+        -0.12,
+        59.12
+      ]
+    },
+    {
+      "code": "PANTONE 123 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EAB728",
+      "rgb": [
+        234,
+        183,
+        40
+      ],
+      "lab": [
+        76.99,
+        4.2,
+        63.89
+      ]
+    },
+    {
+      "code": "PANTONE 124 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D79C00",
+      "rgb": [
+        215,
+        156,
+        0
+      ],
+      "lab": [
+        68.19,
+        9.76,
+        65.18
+      ]
+    },
+    {
+      "code": "PANTONE 125 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A67A00",
+      "rgb": [
+        166,
+        122,
+        0
+      ],
+      "lab": [
+        54.06,
+        6.71,
+        54.12
+      ]
+    },
+    {
+      "code": "PANTONE 126 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#936A00",
+      "rgb": [
+        147,
+        106,
+        0
+      ],
+      "lab": [
+        47.64,
+        7.09,
+        49.24
+      ]
+    },
+    {
+      "code": "PANTONE 127 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DFCB64",
+      "rgb": [
+        223,
+        203,
+        100
+      ],
+      "lab": [
+        81.47,
+        -7.76,
+        42.01
+      ]
+    },
+    {
+      "code": "PANTONE 128 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DEBF47",
+      "rgb": [
+        222,
+        191,
+        71
+      ],
+      "lab": [
+        78.02,
+        -3.85,
+        52.43
+      ]
+    },
+    {
+      "code": "PANTONE 129 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DCAC2B",
+      "rgb": [
+        220,
+        172,
+        43
+      ],
+      "lab": [
+        72.82,
+        4.13,
+        59.04
+      ]
+    },
+    {
+      "code": "PANTONE 130 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DE9B00",
+      "rgb": [
+        222,
+        155,
+        0
+      ],
+      "lab": [
+        68.73,
+        13.33,
+        65.9
+      ]
+    },
+    {
+      "code": "PANTONE 131 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BB7E00",
+      "rgb": [
+        187,
+        126,
+        0
+      ],
+      "lab": [
+        57.55,
+        13.91,
+        57.41
+      ]
+    },
+    {
+      "code": "PANTONE 132 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#936A00",
+      "rgb": [
+        147,
+        106,
+        0
+      ],
+      "lab": [
+        47.64,
+        7.09,
+        49.24
+      ]
+    },
+    {
+      "code": "PANTONE 133 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#65521C",
+      "rgb": [
+        101,
+        82,
+        28
+      ],
+      "lab": [
+        35.76,
+        0.23,
+        28.08
+      ]
+    },
+    {
+      "code": "PANTONE 134 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E7C18C",
+      "rgb": [
+        231,
+        193,
+        140
+      ],
+      "lab": [
+        80.19,
+        4.42,
+        18.77
+      ]
+    },
+    {
+      "code": "PANTONE 135 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E6B66E",
+      "rgb": [
+        230,
+        182,
+        110
+      ],
+      "lab": [
+        76.93,
+        6.91,
+        31.65
+      ]
+    },
+    {
+      "code": "PANTONE 136 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EAA643",
+      "rgb": [
+        234,
+        166,
+        67
+      ],
+      "lab": [
+        73.01,
+        14.22,
+        49.86
+      ]
+    },
+    {
+      "code": "PANTONE 137 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EA9500",
+      "rgb": [
+        234,
+        149,
+        0
+      ],
+      "lab": [
+        68.75,
+        21.64,
+        66.66
+      ]
+    },
+    {
+      "code": "PANTONE 138 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C36E00",
+      "rgb": [
+        195,
+        110,
+        0
+      ],
+      "lab": [
+        54.82,
+        26.17,
+        56.49
+      ]
+    },
+    {
+      "code": "PANTONE 139 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#9F6200",
+      "rgb": [
+        159,
+        98,
+        0
+      ],
+      "lab": [
+        47.12,
+        17.2,
+        49.75
+      ]
+    },
+    {
+      "code": "PANTONE 140 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#6C5522",
+      "rgb": [
+        108,
+        85,
+        34
+      ],
+      "lab": [
+        37.48,
+        2.19,
+        26.76
+      ]
+    },
+    {
+      "code": "PANTONE Orange 021 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E94900",
+      "rgb": [
+        233,
+        73,
+        0
+      ],
+      "lab": [
+        54.13,
+        57.74,
+        59.66
+      ]
+    },
+    {
+      "code": "PANTONE 141 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E0B66D",
+      "rgb": [
+        224,
+        182,
+        109
+      ],
+      "lab": [
+        76.32,
+        4.38,
+        31.34
+      ]
+    },
+    {
+      "code": "PANTONE 142 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DEA343",
+      "rgb": [
+        222,
+        163,
+        67
+      ],
+      "lab": [
+        70.96,
+        10.8,
+        47.42
+      ]
+    },
+    {
+      "code": "PANTONE 143 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DB9C1F",
+      "rgb": [
+        219,
+        156,
+        31
+      ],
+      "lab": [
+        68.71,
+        11.94,
+        59.73
+      ]
+    },
+    {
+      "code": "PANTONE 144 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DA7F00",
+      "rgb": [
+        218,
+        127,
+        0
+      ],
+      "lab": [
+        61.73,
+        26.67,
+        61.8
+      ]
+    },
+    {
+      "code": "PANTONE 145 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BB6D1F",
+      "rgb": [
+        187,
+        109,
+        31
+      ],
+      "lab": [
+        53.6,
+        23.88,
+        46.57
+      ]
+    },
+    {
+      "code": "PANTONE 146 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#925B07",
+      "rgb": [
+        146,
+        91,
+        7
+      ],
+      "lab": [
+        43.67,
+        15.46,
+        44.95
+      ]
+    },
+    {
+      "code": "PANTONE 147 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#65451B",
+      "rgb": [
+        101,
+        69,
+        27
+      ],
+      "lab": [
+        32.04,
+        8.19,
+        24.92
+      ]
+    },
+    {
+      "code": "PANTONE 148 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E9BA7F",
+      "rgb": [
+        233,
+        186,
+        127
+      ],
+      "lab": [
+        78.45,
+        7.55,
+        24.02
+      ]
+    },
+    {
+      "code": "PANTONE 149 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E7AC6A",
+      "rgb": [
+        231,
+        172,
+        106
+      ],
+      "lab": [
+        74.53,
+        12.31,
+        31.07
+      ]
+    },
+    {
+      "code": "PANTONE 150 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EA934B",
+      "rgb": [
+        234,
+        147,
+        75
+      ],
+      "lab": [
+        68.66,
+        24.76,
+        41.51
+      ]
+    },
+    {
+      "code": "PANTONE 151 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EA7700",
+      "rgb": [
+        234,
+        119,
+        0
+      ],
+      "lab": [
+        62.25,
+        37.29,
+        63.29
+      ]
+    },
+    {
+      "code": "PANTONE 152 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#CB6B00",
+      "rgb": [
+        203,
+        107,
+        0
+      ],
+      "lab": [
+        55.29,
+        31.09,
+        57.36
+      ]
+    },
+    {
+      "code": "PANTONE 153 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A96622",
+      "rgb": [
+        169,
+        102,
+        34
+      ],
+      "lab": [
+        49.56,
+        20.14,
+        40.91
+      ]
+    },
+    {
+      "code": "PANTONE 154 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#825320",
+      "rgb": [
+        130,
+        83,
+        32
+      ],
+      "lab": [
+        39.64,
+        13.62,
+        30.92
+      ]
+    },
+    {
+      "code": "PANTONE 155 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DBC6A8",
+      "rgb": [
+        219,
+        198,
+        168
+      ],
+      "lab": [
+        80.89,
+        0.7,
+        3.28
+      ]
+    },
+    {
+      "code": "PANTONE 156 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DDB57E",
+      "rgb": [
+        221,
+        181,
+        126
+      ],
+      "lab": [
+        76.03,
+        5.33,
+        21.31
+      ]
+    },
+    {
+      "code": "PANTONE 157 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D9944D",
+      "rgb": [
+        217,
+        148,
+        77
+      ],
+      "lab": [
+        66.88,
+        17.37,
+        37.94
+      ]
+    },
+    {
+      "code": "PANTONE 158 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D56D1F",
+      "rgb": [
+        213,
+        109,
+        31
+      ],
+      "lab": [
+        57.26,
+        34.55,
+        50.96
+      ]
+    },
+    {
+      "code": "PANTONE 159 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BB4E00",
+      "rgb": [
+        187,
+        78,
+        0
+      ],
+      "lab": [
+        47.0,
+        39.54,
+        52.03
+      ]
+    },
+    {
+      "code": "PANTONE 160 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#905312",
+      "rgb": [
+        144,
+        83,
+        18
+      ],
+      "lab": [
+        41.47,
+        19.42,
+        39.84
+      ]
+    },
+    {
+      "code": "PANTONE 161 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#5A3618",
+      "rgb": [
+        90,
+        54,
+        24
+      ],
+      "lab": [
+        26.39,
+        12.09,
+        20.43
+      ]
+    },
+    {
+      "code": "PANTONE 162 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E7B8A6",
+      "rgb": [
+        231,
+        184,
+        166
+      ],
+      "lab": [
+        78.48,
+        12.36,
+        1.33
+      ]
+    },
+    {
+      "code": "PANTONE 163 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EA9C7B",
+      "rgb": [
+        234,
+        156,
+        123
+      ],
+      "lab": [
+        71.35,
+        23.56,
+        17.41
+      ]
+    },
+    {
+      "code": "PANTONE 164 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EA8346",
+      "rgb": [
+        234,
+        131,
+        70
+      ],
+      "lab": [
+        65.1,
+        32.9,
+        40.47
+      ]
+    },
+    {
+      "code": "PANTONE 165 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EA5E1C",
+      "rgb": [
+        234,
+        94,
+        28
+      ],
+      "lab": [
+        57.64,
+        49.63,
+        53.88
+      ]
+    },
+    {
+      "code": "PANTONE 166 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D04B04",
+      "rgb": [
+        208,
+        75,
+        4
+      ],
+      "lab": [
+        50.04,
+        48.6,
+        54.36
+      ]
+    },
+    {
+      "code": "PANTONE 167 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#AE4C19",
+      "rgb": [
+        174,
+        76,
+        25
+      ],
+      "lab": [
+        44.58,
+        35.94,
+        41.24
+      ]
+    },
+    {
+      "code": "PANTONE 168 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#60341B",
+      "rgb": [
+        96,
+        52,
+        27
+      ],
+      "lab": [
+        26.8,
+        16.37,
+        19.21
+      ]
+    },
+    {
+      "code": "PANTONE Red 032 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DB2E3A",
+      "rgb": [
+        219,
+        46,
+        58
+      ],
+      "lab": [
+        48.67,
+        63.64,
+        29.36
+      ]
+    },
+    {
+      "code": "PANTONE Warm Red U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E53C35",
+      "rgb": [
+        229,
+        60,
+        53
+      ],
+      "lab": [
+        52.01,
+        62.08,
+        36.48
+      ]
+    },
+    {
+      "code": "PANTONE 169 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EAA693",
+      "rgb": [
+        234,
+        166,
+        147
+      ],
+      "lab": [
+        74.11,
+        20.75,
+        6.74
+      ]
+    },
+    {
+      "code": "PANTONE 170 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EA7B6A",
+      "rgb": [
+        234,
+        123,
+        106
+      ],
+      "lab": [
+        63.92,
+        39.35,
+        18.19
+      ]
+    },
+    {
+      "code": "PANTONE 171 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EA5641",
+      "rgb": [
+        234,
+        86,
+        65
+      ],
+      "lab": [
+        56.62,
+        54.27,
+        34.4
+      ]
+    },
+    {
+      "code": "PANTONE 172 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E64014",
+      "rgb": [
+        230,
+        64,
+        20
+      ],
+      "lab": [
+        52.45,
+        60.26,
+        53.22
+      ]
+    },
+    {
+      "code": "PANTONE 173 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BE3F1D",
+      "rgb": [
+        190,
+        63,
+        29
+      ],
+      "lab": [
+        45.07,
+        47.9,
+        40.9
+      ]
+    },
+    {
+      "code": "PANTONE 174 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8A331E",
+      "rgb": [
+        138,
+        51,
+        30
+      ],
+      "lab": [
+        33.7,
+        34.71,
+        26.68
+      ]
+    },
+    {
+      "code": "PANTONE 175 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#632E22",
+      "rgb": [
+        99,
+        46,
+        34
+      ],
+      "lab": [
+        25.93,
+        21.84,
+        13.59
+      ]
+    },
+    {
+      "code": "PANTONE 176 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EAA2AC",
+      "rgb": [
+        234,
+        162,
+        172
+      ],
+      "lab": [
+        73.75,
+        26.05,
+        -8.78
+      ]
+    },
+    {
+      "code": "PANTONE 177 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EA757F",
+      "rgb": [
+        234,
+        117,
+        127
+      ],
+      "lab": [
+        63.14,
+        44.2,
+        4.16
+      ]
+    },
+    {
+      "code": "PANTONE 178 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#EA5055",
+      "rgb": [
+        234,
+        80,
+        85
+      ],
+      "lab": [
+        55.98,
+        57.75,
+        21.38
+      ]
+    },
+    {
+      "code": "PANTONE 179 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D10027",
+      "rgb": [
+        209,
+        0,
+        39
+      ],
+      "lab": [
+        43.81,
+        67.96,
+        35.7
+      ]
+    },
+    {
+      "code": "PANTONE 180 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#AE352F",
+      "rgb": [
+        174,
+        53,
+        47
+      ],
+      "lab": [
+        40.82,
+        47.28,
+        25.39
+      ]
+    },
+    {
+      "code": "PANTONE 181 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#6E2B3A",
+      "rgb": [
+        110,
+        43,
+        58
+      ],
+      "lab": [
+        27.71,
+        30.21,
+        -1.1
+      ]
+    },
+    {
+      "code": "PANTONE 182 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E7A1B0",
+      "rgb": [
+        231,
+        161,
+        176
+      ],
+      "lab": [
+        73.3,
+        26.06,
+        -11.88
+      ]
+    },
+    {
+      "code": "PANTONE 183 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E67E94",
+      "rgb": [
+        230,
+        126,
+        148
+      ],
+      "lab": [
+        64.87,
+        40.51,
+        -6.65
+      ]
+    },
+    {
+      "code": "PANTONE 184 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E05360",
+      "rgb": [
+        224,
+        83,
+        96
+      ],
+      "lab": [
+        54.95,
+        54.04,
+        12.71
+      ]
+    },
+    {
+      "code": "PANTONE 185 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D10027",
+      "rgb": [
+        209,
+        0,
+        39
+      ],
+      "lab": [
+        43.81,
+        67.96,
+        35.7
+      ]
+    },
+    {
+      "code": "PANTONE 186 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B80E2A",
+      "rgb": [
+        184,
+        14,
+        42
+      ],
+      "lab": [
+        39.03,
+        60.48,
+        27.33
+      ]
+    },
+    {
+      "code": "PANTONE 187 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#98172A",
+      "rgb": [
+        152,
+        23,
+        42
+      ],
+      "lab": [
+        32.83,
+        50.29,
+        18.6
+      ]
+    },
+    {
+      "code": "PANTONE 188 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#6C202B",
+      "rgb": [
+        108,
+        32,
+        43
+      ],
+      "lab": [
+        24.94,
+        33.47,
+        6.17
+      ]
+    },
+    {
+      "code": "PANTONE 189 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E495AC",
+      "rgb": [
+        228,
+        149,
+        172
+      ],
+      "lab": [
+        70.16,
+        30.85,
+        -13.99
+      ]
+    },
+    {
+      "code": "PANTONE 190 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E26B8C",
+      "rgb": [
+        226,
+        107,
+        140
+      ],
+      "lab": [
+        60.41,
+        47.72,
+        -7.99
+      ]
+    },
+    {
+      "code": "PANTONE 191 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DB4476",
+      "rgb": [
+        219,
+        68,
+        118
+      ],
+      "lab": [
+        52.41,
+        60.3,
+        -5.23
+      ]
+    },
+    {
+      "code": "PANTONE 192 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D10040",
+      "rgb": [
+        209,
+        0,
+        64
+      ],
+      "lab": [
+        44.13,
+        68.82,
+        19.72
+      ]
+    },
+    {
+      "code": "PANTONE 193 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#AF0B39",
+      "rgb": [
+        175,
+        11,
+        57
+      ],
+      "lab": [
+        37.21,
+        59.23,
+        14.48
+      ]
+    },
+    {
+      "code": "PANTONE 194 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8E233D",
+      "rgb": [
+        142,
+        35,
+        61
+      ],
+      "lab": [
+        32.46,
+        44.84,
+        4.18
+      ]
+    },
+    {
+      "code": "PANTONE 195 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#662238",
+      "rgb": [
+        102,
+        34,
+        56
+      ],
+      "lab": [
+        24.5,
+        31.67,
+        -4.33
+      ]
+    },
+    {
+      "code": "PANTONE 196 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D9B4C5",
+      "rgb": [
+        217,
+        180,
+        197
+      ],
+      "lab": [
+        76.94,
+        14.11,
+        -19.45
+      ]
+    },
+    {
+      "code": "PANTONE 197 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D58FA0",
+      "rgb": [
+        213,
+        143,
+        160
+      ],
+      "lab": [
+        66.77,
+        27.02,
+        -11.69
+      ]
+    },
+    {
+      "code": "PANTONE 198 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#CD4059",
+      "rgb": [
+        205,
+        64,
+        89
+      ],
+      "lab": [
+        48.72,
+        55.31,
+        8.55
+      ]
+    },
+    {
+      "code": "PANTONE 199 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C3002E",
+      "rgb": [
+        195,
+        0,
+        46
+      ],
+      "lab": [
+        40.9,
+        64.83,
+        27.37
+      ]
+    },
+    {
+      "code": "PANTONE 200 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#AB0B2B",
+      "rgb": [
+        171,
+        11,
+        43
+      ],
+      "lab": [
+        36.13,
+        57.6,
+        22.73
+      ]
+    },
+    {
+      "code": "PANTONE 201 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#901F30",
+      "rgb": [
+        144,
+        31,
+        48
+      ],
+      "lab": [
+        32.09,
+        45.95,
+        13.09
+      ]
+    },
+    {
+      "code": "PANTONE 202 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7B222E",
+      "rgb": [
+        123,
+        34,
+        46
+      ],
+      "lab": [
+        28.26,
+        38.0,
+        8.82
+      ]
+    },
+    {
+      "code": "PANTONE 203 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D9A4BA",
+      "rgb": [
+        217,
+        164,
+        186
+      ],
+      "lab": [
+        72.79,
+        20.98,
+        -18.84
+      ]
+    },
+    {
+      "code": "PANTONE 204 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D4779B",
+      "rgb": [
+        212,
+        119,
+        155
+      ],
+      "lab": [
+        61.27,
+        38.79,
+        -16.49
+      ]
+    },
+    {
+      "code": "PANTONE 205 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#CE3F71",
+      "rgb": [
+        206,
+        63,
+        113
+      ],
+      "lab": [
+        49.34,
+        57.97,
+        -6.56
+      ]
+    },
+    {
+      "code": "PANTONE 206 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BD0D60",
+      "rgb": [
+        189,
+        13,
+        96
+      ],
+      "lab": [
+        41.14,
+        64.87,
+        -7.08
+      ]
+    },
+    {
+      "code": "PANTONE 207 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#970049",
+      "rgb": [
+        151,
+        0,
+        73
+      ],
+      "lab": [
+        31.95,
+        55.91,
+        -4.91
+      ]
+    },
+    {
+      "code": "PANTONE 208 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#72244E",
+      "rgb": [
+        114,
+        36,
+        78
+      ],
+      "lab": [
+        27.82,
+        37.48,
+        -15.46
+      ]
+    },
+    {
+      "code": "PANTONE 209 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#662839",
+      "rgb": [
+        102,
+        40,
+        57
+      ],
+      "lab": [
+        25.68,
+        28.7,
+        -3.4
+      ]
+    },
+    {
+      "code": "PANTONE Rubine Red U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BD0050",
+      "rgb": [
+        189,
+        0,
+        80
+      ],
+      "lab": [
+        40.25,
+        65.09,
+        2.84
+      ]
+    },
+    {
+      "code": "PANTONE Pink U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C4228B",
+      "rgb": [
+        196,
+        34,
+        139
+      ],
+      "lab": [
+        45.29,
+        66.93,
+        -30.06
+      ]
+    },
+    {
+      "code": "PANTONE 210 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E592B8",
+      "rgb": [
+        229,
+        146,
+        184
+      ],
+      "lab": [
+        69.95,
+        34.53,
+        -21.6
+      ]
+    },
+    {
+      "code": "PANTONE 211 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E173A7",
+      "rgb": [
+        225,
+        115,
+        167
+      ],
+      "lab": [
+        62.56,
+        46.78,
+        -21.95
+      ]
+    },
+    {
+      "code": "PANTONE 212 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DB4485",
+      "rgb": [
+        219,
+        68,
+        133
+      ],
+      "lab": [
+        52.83,
+        61.73,
+        -14.47
+      ]
+    },
+    {
+      "code": "PANTONE 213 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#CF008B",
+      "rgb": [
+        207,
+        0,
+        139
+      ],
+      "lab": [
+        45.82,
+        73.83,
+        -29.06
+      ]
+    },
+    {
+      "code": "PANTONE 214 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B60073",
+      "rgb": [
+        182,
+        0,
+        115
+      ],
+      "lab": [
+        39.89,
+        66.4,
+        -22.21
+      ]
+    },
+    {
+      "code": "PANTONE 215 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#91182E",
+      "rgb": [
+        145,
+        24,
+        46
+      ],
+      "lab": [
+        31.51,
+        48.24,
+        13.86
+      ]
+    },
+    {
+      "code": "PANTONE 216 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#712922",
+      "rgb": [
+        113,
+        41,
+        34
+      ],
+      "lab": [
+        27.33,
+        30.31,
+        15.85
+      ]
+    },
+    {
+      "code": "PANTONE 217 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D9AFC0",
+      "rgb": [
+        217,
+        175,
+        192
+      ],
+      "lab": [
+        75.59,
+        15.98,
+        -18.41
+      ]
+    },
+    {
+      "code": "PANTONE 218 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D6629C",
+      "rgb": [
+        214,
+        98,
+        156
+      ],
+      "lab": [
+        57.5,
+        50.11,
+        -22.61
+      ]
+    },
+    {
+      "code": "PANTONE 219 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C81679",
+      "rgb": [
+        200,
+        22,
+        121
+      ],
+      "lab": [
+        44.57,
+        68.27,
+        -18.97
+      ]
+    },
+    {
+      "code": "PANTONE 220 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#970049",
+      "rgb": [
+        151,
+        0,
+        73
+      ],
+      "lab": [
+        31.95,
+        55.91,
+        -4.91
+      ]
+    },
+    {
+      "code": "PANTONE 221 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#850042",
+      "rgb": [
+        133,
+        0,
+        66
+      ],
+      "lab": [
+        27.8,
+        51.18,
+        -6.22
+      ]
+    },
+    {
+      "code": "PANTONE 222 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#631A3F",
+      "rgb": [
+        99,
+        26,
+        63
+      ],
+      "lab": [
+        22.83,
+        35.2,
+        -12.06
+      ]
+    },
+    {
+      "code": "PANTONE 223 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D866AD",
+      "rgb": [
+        216,
+        102,
+        173
+      ],
+      "lab": [
+        59.09,
+        51.15,
+        -31.01
+      ]
+    },
+    {
+      "code": "PANTONE 224 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D2458E",
+      "rgb": [
+        210,
+        69,
+        142
+      ],
+      "lab": [
+        51.74,
+        59.83,
+        -22.14
+      ]
+    },
+    {
+      "code": "PANTONE 225 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BF0066",
+      "rgb": [
+        191,
+        0,
+        102
+      ],
+      "lab": [
+        41.28,
+        67.13,
+        -10.99
+      ]
+    },
+    {
+      "code": "PANTONE 226 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BF0066",
+      "rgb": [
+        191,
+        0,
+        102
+      ],
+      "lab": [
+        41.28,
+        67.13,
+        -10.99
+      ]
+    },
+    {
+      "code": "PANTONE 227 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#970049",
+      "rgb": [
+        151,
+        0,
+        73
+      ],
+      "lab": [
+        31.95,
+        55.91,
+        -4.91
+      ]
+    },
+    {
+      "code": "PANTONE 228 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#751F57",
+      "rgb": [
+        117,
+        31,
+        87
+      ],
+      "lab": [
+        27.98,
+        41.73,
+        -21.68
+      ]
+    },
+    {
+      "code": "PANTONE 229 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#5E1E40",
+      "rgb": [
+        94,
+        30,
+        64
+      ],
+      "lab": [
+        22.58,
+        31.91,
+        -13.29
+      ]
+    },
+    {
+      "code": "PANTONE 230 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#E198BC",
+      "rgb": [
+        225,
+        152,
+        188
+      ],
+      "lab": [
+        70.94,
+        30.57,
+        -22.65
+      ]
+    },
+    {
+      "code": "PANTONE 231 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DE6DAD",
+      "rgb": [
+        222,
+        109,
+        173
+      ],
+      "lab": [
+        61.21,
+        49.61,
+        -27.75
+      ]
+    },
+    {
+      "code": "PANTONE 232 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#CE3D89",
+      "rgb": [
+        206,
+        61,
+        137
+      ],
+      "lab": [
+        49.82,
+        61.16,
+        -21.77
+      ]
+    },
+    {
+      "code": "PANTONE 233 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B90055",
+      "rgb": [
+        185,
+        0,
+        85
+      ],
+      "lab": [
+        39.54,
+        64.52,
+        -1.78
+      ]
+    },
+    {
+      "code": "PANTONE 234 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#961344",
+      "rgb": [
+        150,
+        19,
+        68
+      ],
+      "lab": [
+        32.63,
+        52.26,
+        -0.36
+      ]
+    },
+    {
+      "code": "PANTONE 235 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#791738",
+      "rgb": [
+        121,
+        23,
+        56
+      ],
+      "lab": [
+        26.63,
+        42.25,
+        -0.79
+      ]
+    },
+    {
+      "code": "PANTONE Violet U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#3E008C",
+      "rgb": [
+        62,
+        0,
+        140
+      ],
+      "lab": [
+        19.71,
+        51.83,
+        -72.78
+      ]
+    },
+    {
+      "code": "PANTONE Purple U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#AC25AC",
+      "rgb": [
+        172,
+        37,
+        172
+      ],
+      "lab": [
+        42.87,
+        65.57,
+        -55.89
+      ]
+    },
+    {
+      "code": "PANTONE 236 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DBA8CF",
+      "rgb": [
+        219,
+        168,
+        207
+      ],
+      "lab": [
+        74.55,
+        23.03,
+        -28.89
+      ]
+    },
+    {
+      "code": "PANTONE 237 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D283BD",
+      "rgb": [
+        210,
+        131,
+        189
+      ],
+      "lab": [
+        64.65,
+        36.95,
+        -32.75
+      ]
+    },
+    {
+      "code": "PANTONE 238 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C955A7",
+      "rgb": [
+        201,
+        85,
+        167
+      ],
+      "lab": [
+        53.72,
+        53.82,
+        -35.5
+      ]
+    },
+    {
+      "code": "PANTONE 239 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B721A2",
+      "rgb": [
+        183,
+        33,
+        162
+      ],
+      "lab": [
+        43.9,
+        67.3,
+        -47.61
+      ]
+    },
+    {
+      "code": "PANTONE 240 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A1147A",
+      "rgb": [
+        161,
+        20,
+        122
+      ],
+      "lab": [
+        36.9,
+        60.16,
+        -31.94
+      ]
+    },
+    {
+      "code": "PANTONE 241 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#850D70",
+      "rgb": [
+        133,
+        13,
+        112
+      ],
+      "lab": [
+        30.51,
+        54.2,
+        -35.32
+      ]
+    },
+    {
+      "code": "PANTONE 242 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#661A40",
+      "rgb": [
+        102,
+        26,
+        64
+      ],
+      "lab": [
+        23.45,
+        36.26,
+        -11.83
+      ]
+    },
+    {
+      "code": "PANTONE 243 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D2AEC9",
+      "rgb": [
+        210,
+        174,
+        201
+      ],
+      "lab": [
+        74.95,
+        15.64,
+        -24.82
+      ]
+    },
+    {
+      "code": "PANTONE 244 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C893BB",
+      "rgb": [
+        200,
+        147,
+        187
+      ],
+      "lab": [
+        67.08,
+        24.56,
+        -28.03
+      ]
+    },
+    {
+      "code": "PANTONE 245 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BB71AC",
+      "rgb": [
+        187,
+        113,
+        172
+      ],
+      "lab": [
+        57.42,
+        36.24,
+        -33.27
+      ]
+    },
+    {
+      "code": "PANTONE 246 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A61591",
+      "rgb": [
+        166,
+        21,
+        145
+      ],
+      "lab": [
+        39.05,
+        64.03,
+        -44.13
+      ]
+    },
+    {
+      "code": "PANTONE 247 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#93087E",
+      "rgb": [
+        147,
+        8,
+        126
+      ],
+      "lab": [
+        33.74,
+        59.7,
+        -39.8
+      ]
+    },
+    {
+      "code": "PANTONE 248 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7C1861",
+      "rgb": [
+        124,
+        24,
+        97
+      ],
+      "lab": [
+        28.91,
+        47.42,
+        -27.33
+      ]
+    },
+    {
+      "code": "PANTONE 249 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#5C225E",
+      "rgb": [
+        92,
+        34,
+        94
+      ],
+      "lab": [
+        24.41,
+        34.45,
+        -32.6
+      ]
+    },
+    {
+      "code": "PANTONE 250 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#CEACD2",
+      "rgb": [
+        206,
+        172,
+        210
+      ],
+      "lab": [
+        74.37,
+        17.04,
+        -31.1
+      ]
+    },
+    {
+      "code": "PANTONE 251 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BD8AC6",
+      "rgb": [
+        189,
+        138,
+        198
+      ],
+      "lab": [
+        64.22,
+        27.95,
+        -39.18
+      ]
+    },
+    {
+      "code": "PANTONE 252 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#9356A6",
+      "rgb": [
+        147,
+        86,
+        166
+      ],
+      "lab": [
+        46.46,
+        37.41,
+        -46.63
+      ]
+    },
+    {
+      "code": "PANTONE 253 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#792E8E",
+      "rgb": [
+        121,
+        46,
+        142
+      ],
+      "lab": [
+        33.93,
+        45.99,
+        -50.71
+      ]
+    },
+    {
+      "code": "PANTONE 254 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#652970",
+      "rgb": [
+        101,
+        41,
+        112
+      ],
+      "lab": [
+        28.18,
+        37.1,
+        -39.38
+      ]
+    },
+    {
+      "code": "PANTONE 255 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#502968",
+      "rgb": [
+        80,
+        41,
+        104
+      ],
+      "lab": [
+        24.61,
+        29.48,
+        -39.57
+      ]
+    },
+    {
+      "code": "PANTONE 256 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BF98BA",
+      "rgb": [
+        191,
+        152,
+        186
+      ],
+      "lab": [
+        67.34,
+        18.53,
+        -27.13
+      ]
+    },
+    {
+      "code": "PANTONE 257 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#AE79AC",
+      "rgb": [
+        174,
+        121,
+        172
+      ],
+      "lab": [
+        57.71,
+        27.53,
+        -32.98
+      ]
+    },
+    {
+      "code": "PANTONE 258 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7F5393",
+      "rgb": [
+        127,
+        83,
+        147
+      ],
+      "lab": [
+        42.47,
+        28.96,
+        -40.6
+      ]
+    },
+    {
+      "code": "PANTONE 259 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#641D6D",
+      "rgb": [
+        100,
+        29,
+        109
+      ],
+      "lab": [
+        25.84,
+        41.79,
+        -40.97
+      ]
+    },
+    {
+      "code": "PANTONE 260 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#502878",
+      "rgb": [
+        80,
+        40,
+        120
+      ],
+      "lab": [
+        25.5,
+        34.14,
+        -49.41
+      ]
+    },
+    {
+      "code": "PANTONE 261 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#452262",
+      "rgb": [
+        69,
+        34,
+        98
+      ],
+      "lab": [
+        21.17,
+        29.04,
+        -40.82
+      ]
+    },
+    {
+      "code": "PANTONE 262 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#392754",
+      "rgb": [
+        57,
+        39,
+        84
+      ],
+      "lab": [
+        19.89,
+        18.59,
+        -32.77
+      ]
+    },
+    {
+      "code": "PANTONE Reflex Blue U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00127E",
+      "rgb": [
+        0,
+        18,
+        126
+      ],
+      "lab": [
+        15.16,
+        38.5,
+        -70.76
+      ]
+    },
+    {
+      "code": "PANTONE Process Blue U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#007AB9",
+      "rgb": [
+        0,
+        122,
+        185
+      ],
+      "lab": [
+        48.78,
+        -6.14,
+        -55.74
+      ]
+    },
+    {
+      "code": "PANTONE 263 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C3B5CF",
+      "rgb": [
+        195,
+        181,
+        207
+      ],
+      "lab": [
+        75.55,
+        7.87,
+        -27.67
+      ]
+    },
+    {
+      "code": "PANTONE 264 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A895C4",
+      "rgb": [
+        168,
+        149,
+        196
+      ],
+      "lab": [
+        64.81,
+        14.56,
+        -37.26
+      ]
+    },
+    {
+      "code": "PANTONE 265 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8A6EC2",
+      "rgb": [
+        138,
+        110,
+        194
+      ],
+      "lab": [
+        52.34,
+        27.58,
+        -55.39
+      ]
+    },
+    {
+      "code": "PANTONE 266 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#66299A",
+      "rgb": [
+        102,
+        41,
+        154
+      ],
+      "lab": [
+        31.22,
+        46.83,
+        -63.26
+      ]
+    },
+    {
+      "code": "PANTONE 267 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#572192",
+      "rgb": [
+        87,
+        33,
+        146
+      ],
+      "lab": [
+        27.27,
+        45.74,
+        -64.37
+      ]
+    },
+    {
+      "code": "PANTONE 268 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#502878",
+      "rgb": [
+        80,
+        40,
+        120
+      ],
+      "lab": [
+        25.5,
+        34.14,
+        -49.41
+      ]
+    },
+    {
+      "code": "PANTONE 269 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#452A78",
+      "rgb": [
+        69,
+        42,
+        120
+      ],
+      "lab": [
+        24.57,
+        30.41,
+        -50.98
+      ]
+    },
+    {
+      "code": "PANTONE 270 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#9596C3",
+      "rgb": [
+        149,
+        150,
+        195
+      ],
+      "lab": [
+        63.46,
+        7.77,
+        -38.83
+      ]
+    },
+    {
+      "code": "PANTONE 271 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8080BF",
+      "rgb": [
+        128,
+        128,
+        191
+      ],
+      "lab": [
+        55.88,
+        13.31,
+        -48.09
+      ]
+    },
+    {
+      "code": "PANTONE 272 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#6A6AB1",
+      "rgb": [
+        106,
+        106,
+        177
+      ],
+      "lab": [
+        47.68,
+        16.62,
+        -52.11
+      ]
+    },
+    {
+      "code": "PANTONE 273 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#18125C",
+      "rgb": [
+        24,
+        18,
+        92
+      ],
+      "lab": [
+        11.95,
+        27.98,
+        -51.63
+      ]
+    },
+    {
+      "code": "PANTONE 274 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#15158A",
+      "rgb": [
+        21,
+        21,
+        138
+      ],
+      "lab": [
+        18.05,
+        41.67,
+        -74.26
+      ]
+    },
+    {
+      "code": "PANTONE 275 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#1C1744",
+      "rgb": [
+        28,
+        23,
+        68
+      ],
+      "lab": [
+        11.11,
+        16.46,
+        -34.92
+      ]
+    },
+    {
+      "code": "PANTONE 276 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#1F173A",
+      "rgb": [
+        31,
+        23,
+        58
+      ],
+      "lab": [
+        10.63,
+        13.68,
+        -27.91
+      ]
+    },
+    {
+      "code": "PANTONE 277 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#96B8CF",
+      "rgb": [
+        150,
+        184,
+        207
+      ],
+      "lab": [
+        73.07,
+        -8.0,
+        -31.7
+      ]
+    },
+    {
+      "code": "PANTONE 278 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7EA8D6",
+      "rgb": [
+        126,
+        168,
+        214
+      ],
+      "lab": [
+        67.5,
+        -4.11,
+        -44.43
+      ]
+    },
+    {
+      "code": "PANTONE 279 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#3B83CC",
+      "rgb": [
+        59,
+        131,
+        204
+      ],
+      "lab": [
+        53.51,
+        0.31,
+        -60.16
+      ]
+    },
+    {
+      "code": "PANTONE 280 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#001E60",
+      "rgb": [
+        0,
+        30,
+        96
+      ],
+      "lab": [
+        14.25,
+        19.08,
+        -50.85
+      ]
+    },
+    {
+      "code": "PANTONE 281 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#001D53",
+      "rgb": [
+        0,
+        29,
+        83
+      ],
+      "lab": [
+        12.63,
+        13.99,
+        -43.9
+      ]
+    },
+    {
+      "code": "PANTONE 282 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#031B3C",
+      "rgb": [
+        3,
+        27,
+        60
+      ],
+      "lab": [
+        10.03,
+        5.12,
+        -30.56
+      ]
+    },
+    {
+      "code": "PANTONE 283 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8FB5D6",
+      "rgb": [
+        143,
+        181,
+        214
+      ],
+      "lab": [
+        72.05,
+        -6.69,
+        -37.45
+      ]
+    },
+    {
+      "code": "PANTONE 284 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#639ED1",
+      "rgb": [
+        99,
+        158,
+        209
+      ],
+      "lab": [
+        63.1,
+        -6.43,
+        -48.24
+      ]
+    },
+    {
+      "code": "PANTONE 285 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#0068BD",
+      "rgb": [
+        0,
+        104,
+        189
+      ],
+      "lab": [
+        43.61,
+        6.66,
+        -66.47
+      ]
+    },
+    {
+      "code": "PANTONE 286 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#002E93",
+      "rgb": [
+        0,
+        46,
+        147
+      ],
+      "lab": [
+        23.87,
+        28.92,
+        -70.85
+      ]
+    },
+    {
+      "code": "PANTONE 287 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#002C7C",
+      "rgb": [
+        0,
+        44,
+        124
+      ],
+      "lab": [
+        21.04,
+        20.86,
+        -59.69
+      ]
+    },
+    {
+      "code": "PANTONE 288 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00245F",
+      "rgb": [
+        0,
+        36,
+        95
+      ],
+      "lab": [
+        15.94,
+        14.08,
+        -47.36
+      ]
+    },
+    {
+      "code": "PANTONE 289 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#0B203A",
+      "rgb": [
+        11,
+        32,
+        58
+      ],
+      "lab": [
+        12.02,
+        1.72,
+        -25.8
+      ]
+    },
+    {
+      "code": "PANTONE 290 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#AAC7D8",
+      "rgb": [
+        170,
+        199,
+        216
+      ],
+      "lab": [
+        78.66,
+        -7.97,
+        -28.64
+      ]
+    },
+    {
+      "code": "PANTONE 291 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8EBAD8",
+      "rgb": [
+        142,
+        186,
+        216
+      ],
+      "lab": [
+        73.43,
+        -9.17,
+        -36.59
+      ]
+    },
+    {
+      "code": "PANTONE 292 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#60A4D4",
+      "rgb": [
+        96,
+        164,
+        212
+      ],
+      "lab": [
+        64.79,
+        -9.53,
+        -47.48
+      ]
+    },
+    {
+      "code": "PANTONE 293 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#003897",
+      "rgb": [
+        0,
+        56,
+        151
+      ],
+      "lab": [
+        26.91,
+        23.61,
+        -68.57
+      ]
+    },
+    {
+      "code": "PANTONE 294 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#002B63",
+      "rgb": [
+        0,
+        43,
+        99
+      ],
+      "lab": [
+        18.49,
+        10.59,
+        -46.13
+      ]
+    },
+    {
+      "code": "PANTONE 295 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00244E",
+      "rgb": [
+        0,
+        36,
+        78
+      ],
+      "lab": [
+        14.47,
+        6.19,
+        -37.2
+      ]
+    },
+    {
+      "code": "PANTONE 296 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#031B3C",
+      "rgb": [
+        3,
+        27,
+        60
+      ],
+      "lab": [
+        10.03,
+        5.12,
+        -30.56
+      ]
+    },
+    {
+      "code": "PANTONE 297 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#67B5D5",
+      "rgb": [
+        103,
+        181,
+        213
+      ],
+      "lab": [
+        69.99,
+        -16.97,
+        -40.17
+      ]
+    },
+    {
+      "code": "PANTONE 298 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#3BA7D3",
+      "rgb": [
+        59,
+        167,
+        211
+      ],
+      "lab": [
+        64.38,
+        -17.83,
+        -47.62
+      ]
+    },
+    {
+      "code": "PANTONE 299 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#0095CE",
+      "rgb": [
+        0,
+        149,
+        206
+      ],
+      "lab": [
+        57.99,
+        -13.92,
+        -54.48
+      ]
+    },
+    {
+      "code": "PANTONE 300 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#0056A9",
+      "rgb": [
+        0,
+        86,
+        169
+      ],
+      "lab": [
+        36.96,
+        10.37,
+        -64.22
+      ]
+    },
+    {
+      "code": "PANTONE 301 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00457C",
+      "rgb": [
+        0,
+        69,
+        124
+      ],
+      "lab": [
+        28.67,
+        2.97,
+        -47.39
+      ]
+    },
+    {
+      "code": "PANTONE 302 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#003654",
+      "rgb": [
+        0,
+        54,
+        84
+      ],
+      "lab": [
+        21.12,
+        -4.19,
+        -31.07
+      ]
+    },
+    {
+      "code": "PANTONE 303 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#002635",
+      "rgb": [
+        0,
+        38,
+        53
+      ],
+      "lab": [
+        13.49,
+        -7.04,
+        -19.65
+      ]
+    },
+    {
+      "code": "PANTONE Uyan U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00A6CF",
+      "rgb": [
+        0,
+        166,
+        207
+      ],
+      "lab": [
+        63.16,
+        -22.81,
+        -47.13
+      ]
+    },
+    {
+      "code": "PANTONE 304 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8EC2CA",
+      "rgb": [
+        142,
+        194,
+        202
+      ],
+      "lab": [
+        75.2,
+        -16.8,
+        -25.63
+      ]
+    },
+    {
+      "code": "PANTONE 305 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#53B2D4",
+      "rgb": [
+        83,
+        178,
+        212
+      ],
+      "lab": [
+        68.34,
+        -19.64,
+        -42.13
+      ]
+    },
+    {
+      "code": "PANTONE 306 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00A6CF",
+      "rgb": [
+        0,
+        166,
+        207
+      ],
+      "lab": [
+        63.16,
+        -22.81,
+        -47.13
+      ]
+    },
+    {
+      "code": "PANTONE 307 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#0D5F8D",
+      "rgb": [
+        13,
+        95,
+        141
+      ],
+      "lab": [
+        38.18,
+        -6.21,
+        -43.85
+      ]
+    },
+    {
+      "code": "PANTONE 308 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#005072",
+      "rgb": [
+        0,
+        80,
+        114
+      ],
+      "lab": [
+        31.7,
+        -8.51,
+        -35.76
+      ]
+    },
+    {
+      "code": "PANTONE 309 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#003643",
+      "rgb": [
+        0,
+        54,
+        67
+      ],
+      "lab": [
+        20.22,
+        -11.51,
+        -19.97
+      ]
+    },
+    {
+      "code": "PANTONE 310 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#61C0D0",
+      "rgb": [
+        97,
+        192,
+        208
+      ],
+      "lab": [
+        72.75,
+        -25.35,
+        -33.05
+      ]
+    },
+    {
+      "code": "PANTONE 311 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#0BACC5",
+      "rgb": [
+        11,
+        172,
+        197
+      ],
+      "lab": [
+        64.65,
+        -28.94,
+        -38.76
+      ]
+    },
+    {
+      "code": "PANTONE 312 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#009BBD",
+      "rgb": [
+        0,
+        155,
+        189
+      ],
+      "lab": [
+        59.08,
+        -23.26,
+        -42.31
+      ]
+    },
+    {
+      "code": "PANTONE 313 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00789B",
+      "rgb": [
+        0,
+        120,
+        155
+      ],
+      "lab": [
+        46.71,
+        -16.36,
+        -39.81
+      ]
+    },
+    {
+      "code": "PANTONE 314 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#006182",
+      "rgb": [
+        0,
+        97,
+        130
+      ],
+      "lab": [
+        38.13,
+        -12.52,
+        -36.63
+      ]
+    },
+    {
+      "code": "PANTONE 315 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#004F67",
+      "rgb": [
+        0,
+        79,
+        103
+      ],
+      "lab": [
+        30.81,
+        -12.33,
+        -29.54
+      ]
+    },
+    {
+      "code": "PANTONE 316 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00424A",
+      "rgb": [
+        0,
+        66,
+        74
+      ],
+      "lab": [
+        24.92,
+        -15.98,
+        -17.97
+      ]
+    },
+    {
+      "code": "PANTONE 317 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#AFD4D2",
+      "rgb": [
+        175,
+        212,
+        210
+      ],
+      "lab": [
+        82.3,
+        -14.51,
+        -19.77
+      ]
+    },
+    {
+      "code": "PANTONE 318 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7DC9CD",
+      "rgb": [
+        125,
+        201,
+        205
+      ],
+      "lab": [
+        76.4,
+        -24.25,
+        -25.75
+      ]
+    },
+    {
+      "code": "PANTONE 319 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#29BBC2",
+      "rgb": [
+        41,
+        187,
+        194
+      ],
+      "lab": [
+        69.4,
+        -35.36,
+        -29.79
+      ]
+    },
+    {
+      "code": "PANTONE 320 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#008F98",
+      "rgb": [
+        0,
+        143,
+        152
+      ],
+      "lab": [
+        53.93,
+        -29.64,
+        -26.94
+      ]
+    },
+    {
+      "code": "PANTONE 321 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#007E8A",
+      "rgb": [
+        0,
+        126,
+        138
+      ],
+      "lab": [
+        47.95,
+        -25.69,
+        -26.94
+      ]
+    },
+    {
+      "code": "PANTONE 322 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#006C76",
+      "rgb": [
+        0,
+        108,
+        118
+      ],
+      "lab": [
+        41.27,
+        -23.17,
+        -23.85
+      ]
+    },
+    {
+      "code": "PANTONE 323 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#005759",
+      "rgb": [
+        0,
+        87,
+        89
+      ],
+      "lab": [
+        33.0,
+        -22.17,
+        -16.52
+      ]
+    },
+    {
+      "code": "PANTONE 324 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8FC9C7",
+      "rgb": [
+        143,
+        201,
+        199
+      ],
+      "lab": [
+        77.12,
+        -20.81,
+        -21.04
+      ]
+    },
+    {
+      "code": "PANTONE 325 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#5CBBB8",
+      "rgb": [
+        92,
+        187,
+        184
+      ],
+      "lab": [
+        70.37,
+        -30.36,
+        -22.2
+      ]
+    },
+    {
+      "code": "PANTONE 326 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00A39B",
+      "rgb": [
+        0,
+        163,
+        155
+      ],
+      "lab": [
+        60.39,
+        -38.26,
+        -19.29
+      ]
+    },
+    {
+      "code": "PANTONE 327 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#007A6C",
+      "rgb": [
+        0,
+        122,
+        108
+      ],
+      "lab": [
+        45.63,
+        -33.41,
+        -10.85
+      ]
+    },
+    {
+      "code": "PANTONE 328 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#006958",
+      "rgb": [
+        0,
+        105,
+        88
+      ],
+      "lab": [
+        39.25,
+        -31.46,
+        -6.77
+      ]
+    },
+    {
+      "code": "PANTONE 329 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#005D56",
+      "rgb": [
+        0,
+        93,
+        86
+      ],
+      "lab": [
+        35.0,
+        -26.29,
+        -11.52
+      ]
+    },
+    {
+      "code": "PANTONE 330 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#004B45",
+      "rgb": [
+        0,
+        75,
+        69
+      ],
+      "lab": [
+        28.01,
+        -22.75,
+        -9.83
+      ]
+    },
+    {
+      "code": "PANTONE Green U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#009D79",
+      "rgb": [
+        0,
+        157,
+        121
+      ],
+      "lab": [
+        57.55,
+        -45.13,
+        -2.27
+      ]
+    },
+    {
+      "code": "PANTONE 331 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#96D2C7",
+      "rgb": [
+        150,
+        210,
+        199
+      ],
+      "lab": [
+        80.01,
+        -23.35,
+        -16.82
+      ]
+    },
+    {
+      "code": "PANTONE 332 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#83CEBE",
+      "rgb": [
+        131,
+        206,
+        190
+      ],
+      "lab": [
+        77.69,
+        -28.69,
+        -14.98
+      ]
+    },
+    {
+      "code": "PANTONE 333 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#37C9B0",
+      "rgb": [
+        55,
+        201,
+        176
+      ],
+      "lab": [
+        73.36,
+        -45.27,
+        -13.22
+      ]
+    },
+    {
+      "code": "PANTONE 334 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#008D6E",
+      "rgb": [
+        0,
+        141,
+        110
+      ],
+      "lab": [
+        52.03,
+        -41.29,
+        -3.08
+      ]
+    },
+    {
+      "code": "PANTONE 335 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00704C",
+      "rgb": [
+        0,
+        112,
+        76
+      ],
+      "lab": [
+        41.39,
+        -37.82,
+        4.11
+      ]
+    },
+    {
+      "code": "PANTONE 336 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#005D48",
+      "rgb": [
+        0,
+        93,
+        72
+      ],
+      "lab": [
+        34.59,
+        -30.58,
+        -2.55
+      ]
+    },
+    {
+      "code": "PANTONE 337 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8DC9B6",
+      "rgb": [
+        141,
+        201,
+        182
+      ],
+      "lab": [
+        76.56,
+        -25.11,
+        -11.79
+      ]
+    },
+    {
+      "code": "PANTONE 338 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#74B8A1",
+      "rgb": [
+        116,
+        184,
+        161
+      ],
+      "lab": [
+        69.87,
+        -28.44,
+        -8.95
+      ]
+    },
+    {
+      "code": "PANTONE 339 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00A47D",
+      "rgb": [
+        0,
+        164,
+        125
+      ],
+      "lab": [
+        59.92,
+        -46.99,
+        -1.46
+      ]
+    },
+    {
+      "code": "PANTONE 340 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#008D3E",
+      "rgb": [
+        0,
+        141,
+        62
+      ],
+      "lab": [
+        51.15,
+        -51.47,
+        24.85
+      ]
+    },
+    {
+      "code": "PANTONE 341 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#007938",
+      "rgb": [
+        0,
+        121,
+        56
+      ],
+      "lab": [
+        44.17,
+        -45.46,
+        20.1
+      ]
+    },
+    {
+      "code": "PANTONE 342 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#005E41",
+      "rgb": [
+        0,
+        94,
+        65
+      ],
+      "lab": [
+        34.77,
+        -32.95,
+        2.44
+      ]
+    },
+    {
+      "code": "PANTONE 343 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#0F503A",
+      "rgb": [
+        15,
+        80,
+        58
+      ],
+      "lab": [
+        29.77,
+        -26.71,
+        0.44
+      ]
+    },
+    {
+      "code": "PANTONE 344 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#94CBA9",
+      "rgb": [
+        148,
+        203,
+        169
+      ],
+      "lab": [
+        77.2,
+        -26.59,
+        -3.18
+      ]
+    },
+    {
+      "code": "PANTONE 345 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7ABE93",
+      "rgb": [
+        122,
+        190,
+        147
+      ],
+      "lab": [
+        71.6,
+        -32.49,
+        1.87
+      ]
+    },
+    {
+      "code": "PANTONE 346 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#539C79",
+      "rgb": [
+        83,
+        156,
+        121
+      ],
+      "lab": [
+        58.97,
+        -32.67,
+        -0.04
+      ]
+    },
+    {
+      "code": "PANTONE 347 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#008D3E",
+      "rgb": [
+        0,
+        141,
+        62
+      ],
+      "lab": [
+        51.15,
+        -51.47,
+        24.85
+      ]
+    },
+    {
+      "code": "PANTONE 348 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#007938",
+      "rgb": [
+        0,
+        121,
+        56
+      ],
+      "lab": [
+        44.17,
+        -45.46,
+        20.1
+      ]
+    },
+    {
+      "code": "PANTONE 349 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#036133",
+      "rgb": [
+        3,
+        97,
+        51
+      ],
+      "lab": [
+        35.61,
+        -37.14,
+        12.74
+      ]
+    },
+    {
+      "code": "PANTONE 350 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#234732",
+      "rgb": [
+        35,
+        71,
+        50
+      ],
+      "lab": [
+        27.0,
+        -19.45,
+        2.36
+      ]
+    },
+    {
+      "code": "PANTONE 351 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A7C9A2",
+      "rgb": [
+        167,
+        201,
+        162
+      ],
+      "lab": [
+        77.64,
+        -20.59,
+        1.7
+      ]
+    },
+    {
+      "code": "PANTONE 352 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#93C08C",
+      "rgb": [
+        147,
+        192,
+        140
+      ],
+      "lab": [
+        73.41,
+        -26.65,
+        8.67
+      ]
+    },
+    {
+      "code": "PANTONE 353 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#79AD87",
+      "rgb": [
+        121,
+        173,
+        135
+      ],
+      "lab": [
+        66.29,
+        -26.78,
+        1.76
+      ]
+    },
+    {
+      "code": "PANTONE 354 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00A23A",
+      "rgb": [
+        0,
+        162,
+        58
+      ],
+      "lab": [
+        58.17,
+        -58.92,
+        34.77
+      ]
+    },
+    {
+      "code": "PANTONE 355 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#008A34",
+      "rgb": [
+        0,
+        138,
+        52
+      ],
+      "lab": [
+        50.01,
+        -51.91,
+        28.99
+      ]
+    },
+    {
+      "code": "PANTONE 356 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#00702E",
+      "rgb": [
+        0,
+        112,
+        46
+      ],
+      "lab": [
+        40.87,
+        -43.9,
+        22.06
+      ]
+    },
+    {
+      "code": "PANTONE 357 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#1E502E",
+      "rgb": [
+        30,
+        80,
+        46
+      ],
+      "lab": [
+        29.94,
+        -26.42,
+        8.94
+      ]
+    },
+    {
+      "code": "PANTONE 358 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A1C387",
+      "rgb": [
+        161,
+        195,
+        135
+      ],
+      "lab": [
+        75.05,
+        -24.0,
+        13.9
+      ]
+    },
+    {
+      "code": "PANTONE 359 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#93BB76",
+      "rgb": [
+        147,
+        187,
+        118
+      ],
+      "lab": [
+        71.59,
+        -27.54,
+        19.06
+      ]
+    },
+    {
+      "code": "PANTONE 360 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#63B244",
+      "rgb": [
+        99,
+        178,
+        68
+      ],
+      "lab": [
+        65.68,
+        -46.03,
+        38.53
+      ]
+    },
+    {
+      "code": "PANTONE 361 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#3DA126",
+      "rgb": [
+        61,
+        161,
+        38
+      ],
+      "lab": [
+        58.62,
+        -52.62,
+        44.35
+      ]
+    },
+    {
+      "code": "PANTONE 362 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#398F30",
+      "rgb": [
+        57,
+        143,
+        48
+      ],
+      "lab": [
+        52.65,
+        -45.97,
+        34.14
+      ]
+    },
+    {
+      "code": "PANTONE 363 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#35782E",
+      "rgb": [
+        53,
+        120,
+        46
+      ],
+      "lab": [
+        44.78,
+        -37.93,
+        26.75
+      ]
+    },
+    {
+      "code": "PANTONE 364 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#446D25",
+      "rgb": [
+        68,
+        109,
+        37
+      ],
+      "lab": [
+        41.69,
+        -28.9,
+        28.46
+      ]
+    },
+    {
+      "code": "PANTONE 365 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BFCCAE",
+      "rgb": [
+        191,
+        204,
+        174
+      ],
+      "lab": [
+        80.36,
+        -11.72,
+        -1.31
+      ]
+    },
+    {
+      "code": "PANTONE 366 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B2C498",
+      "rgb": [
+        178,
+        196,
+        152
+      ],
+      "lab": [
+        76.81,
+        -15.77,
+        6.55
+      ]
+    },
+    {
+      "code": "PANTONE 367 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#96C456",
+      "rgb": [
+        150,
+        196,
+        86
+      ],
+      "lab": [
+        73.96,
+        -34.51,
+        39.31
+      ]
+    },
+    {
+      "code": "PANTONE 368 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#6EAE1D",
+      "rgb": [
+        110,
+        174,
+        29
+      ],
+      "lab": [
+        64.7,
+        -43.32,
+        53.35
+      ]
+    },
+    {
+      "code": "PANTONE 369 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#5C990A",
+      "rgb": [
+        92,
+        153,
+        10
+      ],
+      "lab": [
+        57.15,
+        -41.36,
+        51.47
+      ]
+    },
+    {
+      "code": "PANTONE 370 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#49912B",
+      "rgb": [
+        73,
+        145,
+        43
+      ],
+      "lab": [
+        53.86,
+        -42.71,
+        37.91
+      ]
+    },
+    {
+      "code": "PANTONE 371 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#4D5A27",
+      "rgb": [
+        77,
+        90,
+        39
+      ],
+      "lab": [
+        36.05,
+        -14.97,
+        21.42
+      ]
+    },
+    {
+      "code": "PANTONE 372 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C3DA85",
+      "rgb": [
+        195,
+        218,
+        133
+      ],
+      "lab": [
+        83.67,
+        -23.13,
+        26.46
+      ]
+    },
+    {
+      "code": "PANTONE 373 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B5D563",
+      "rgb": [
+        181,
+        213,
+        99
+      ],
+      "lab": [
+        80.91,
+        -29.59,
+        40.99
+      ]
+    },
+    {
+      "code": "PANTONE 374 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A6D249",
+      "rgb": [
+        166,
+        210,
+        73
+      ],
+      "lab": [
+        78.86,
+        -36.04,
+        50.88
+      ]
+    },
+    {
+      "code": "PANTONE 375 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8AC500",
+      "rgb": [
+        138,
+        197,
+        0
+      ],
+      "lab": [
+        73.11,
+        -43.62,
+        65.16
+      ]
+    },
+    {
+      "code": "PANTONE 376 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#79AD00",
+      "rgb": [
+        121,
+        173,
+        0
+      ],
+      "lab": [
+        64.92,
+        -39.49,
+        59.18
+      ]
+    },
+    {
+      "code": "PANTONE 377 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#708D00",
+      "rgb": [
+        112,
+        141,
+        0
+      ],
+      "lab": [
+        54.55,
+        -28.15,
+        51.97
+      ]
+    },
+    {
+      "code": "PANTONE 378 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#567325",
+      "rgb": [
+        86,
+        115,
+        37
+      ],
+      "lab": [
+        44.76,
+        -24.65,
+        31.96
+      ]
+    },
+    {
+      "code": "PANTONE Black U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#292522",
+      "rgb": [
+        41,
+        37,
+        34
+      ],
+      "lab": [
+        15.01,
+        0.55,
+        -2.25
+      ]
+    },
+    {
+      "code": "PANTONE 462 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#5E4526",
+      "rgb": [
+        94,
+        69,
+        38
+      ],
+      "lab": [
+        31.29,
+        5.67,
+        17.04
+      ]
+    },
+    {
+      "code": "PANTONE 463 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#704E27",
+      "rgb": [
+        112,
+        78,
+        39
+      ],
+      "lab": [
+        36.06,
+        8.72,
+        22.43
+      ]
+    },
+    {
+      "code": "PANTONE 464 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7F5227",
+      "rgb": [
+        127,
+        82,
+        39
+      ],
+      "lab": [
+        39.06,
+        13.25,
+        26.24
+      ]
+    },
+    {
+      "code": "PANTONE 465 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A99054",
+      "rgb": [
+        169,
+        144,
+        84
+      ],
+      "lab": [
+        60.8,
+        -0.19,
+        25.76
+      ]
+    },
+    {
+      "code": "PANTONE 466 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B59A6B",
+      "rgb": [
+        181,
+        154,
+        107
+      ],
+      "lab": [
+        64.96,
+        1.71,
+        17.62
+      ]
+    },
+    {
+      "code": "PANTONE 467 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BE9C71",
+      "rgb": [
+        190,
+        156,
+        113
+      ],
+      "lab": [
+        66.46,
+        4.97,
+        16.13
+      ]
+    },
+    {
+      "code": "PANTONE 468 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#CAAC80",
+      "rgb": [
+        202,
+        172,
+        128
+      ],
+      "lab": [
+        71.98,
+        2.82,
+        14.6
+      ]
+    },
+    {
+      "code": "PANTONE 469 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#603920",
+      "rgb": [
+        96,
+        57,
+        32
+      ],
+      "lab": [
+        28.16,
+        13.64,
+        17.44
+      ]
+    },
+    {
+      "code": "PANTONE 470 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#945129",
+      "rgb": [
+        148,
+        81,
+        41
+      ],
+      "lab": [
+        41.76,
+        23.25,
+        28.78
+      ]
+    },
+    {
+      "code": "PANTONE 471 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A15218",
+      "rgb": [
+        161,
+        82,
+        24
+      ],
+      "lab": [
+        43.77,
+        27.5,
+        40.19
+      ]
+    },
+    {
+      "code": "PANTONE 472 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D5A689",
+      "rgb": [
+        213,
+        166,
+        137
+      ],
+      "lab": [
+        71.71,
+        11.48,
+        9.11
+      ]
+    },
+    {
+      "code": "PANTONE 473 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DBB78F",
+      "rgb": [
+        219,
+        183,
+        143
+      ],
+      "lab": [
+        76.63,
+        5.39,
+        12.18
+      ]
+    },
+    {
+      "code": "PANTONE 474 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DDC1A1",
+      "rgb": [
+        221,
+        193,
+        161
+      ],
+      "lab": [
+        79.66,
+        3.13,
+        5.73
+      ]
+    },
+    {
+      "code": "PANTONE 475 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#DEC4AD",
+      "rgb": [
+        222,
+        196,
+        173
+      ],
+      "lab": [
+        80.75,
+        3.58,
+        0.21
+      ]
+    },
+    {
+      "code": "PANTONE 476 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#543D28",
+      "rgb": [
+        84,
+        61,
+        40
+      ],
+      "lab": [
+        27.78,
+        6.16,
+        11.17
+      ]
+    },
+    {
+      "code": "PANTONE 477 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#5C3117",
+      "rgb": [
+        92,
+        49,
+        23
+      ],
+      "lab": [
+        25.36,
+        16.1,
+        20.08
+      ]
+    },
+    {
+      "code": "PANTONE 478 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#652800",
+      "rgb": [
+        101,
+        40,
+        0
+      ],
+      "lab": [
+        24.59,
+        24.55,
+        32.88
+      ]
+    },
+    {
+      "code": "PANTONE 479 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B79B80",
+      "rgb": [
+        183,
+        155,
+        128
+      ],
+      "lab": [
+        65.8,
+        4.57,
+        6.12
+      ]
+    },
+    {
+      "code": "PANTONE 480 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C1A58D",
+      "rgb": [
+        193,
+        165,
+        141
+      ],
+      "lab": [
+        69.59,
+        4.77,
+        3.53
+      ]
+    },
+    {
+      "code": "PANTONE 481 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#CDB89E",
+      "rgb": [
+        205,
+        184,
+        158
+      ],
+      "lab": [
+        75.9,
+        1.48,
+        2.16
+      ]
+    },
+    {
+      "code": "PANTONE 482 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#D2C2A8",
+      "rgb": [
+        210,
+        194,
+        168
+      ],
+      "lab": [
+        79.11,
+        -0.52,
+        0.72
+      ]
+    },
+    {
+      "code": "PANTONE 483 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#552D17",
+      "rgb": [
+        85,
+        45,
+        23
+      ],
+      "lab": [
+        23.24,
+        15.31,
+        17.48
+      ]
+    },
+    {
+      "code": "PANTONE 484 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8D2E21",
+      "rgb": [
+        141,
+        46,
+        33
+      ],
+      "lab": [
+        33.41,
+        38.29,
+        24.68
+      ]
+    },
+    {
+      "code": "PANTONE 485 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C82519",
+      "rgb": [
+        200,
+        37,
+        25
+      ],
+      "lab": [
+        43.77,
+        59.76,
+        42.75
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 1 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C7C7C4",
+      "rgb": [
+        199,
+        199,
+        196
+      ],
+      "lab": [
+        80.17,
+        -2.52,
+        -14.41
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 2 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BFBFBD",
+      "rgb": [
+        191,
+        191,
+        189
+      ],
+      "lab": [
+        77.29,
+        -2.29,
+        -14.47
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 3 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#B8B8B7",
+      "rgb": [
+        184,
+        184,
+        183
+      ],
+      "lab": [
+        74.76,
+        -2.05,
+        -14.59
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 4 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#ACACAC",
+      "rgb": [
+        172,
+        172,
+        172
+      ],
+      "lab": [
+        70.35,
+        -1.78,
+        -14.41
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 5 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A2A4A4",
+      "rgb": [
+        162,
+        164,
+        164
+      ],
+      "lab": [
+        67.21,
+        -2.42,
+        -14.16
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 6 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#999A9C",
+      "rgb": [
+        153,
+        154,
+        156
+      ],
+      "lab": [
+        63.58,
+        -1.61,
+        -14.57
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 7 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8A8C8E",
+      "rgb": [
+        138,
+        140,
+        142
+      ],
+      "lab": [
+        58.14,
+        -1.86,
+        -13.82
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 8 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7D7F81",
+      "rgb": [
+        125,
+        127,
+        129
+      ],
+      "lab": [
+        53.08,
+        -1.76,
+        -13.01
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 9 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#6B6E71",
+      "rgb": [
+        107,
+        110,
+        113
+      ],
+      "lab": [
+        46.27,
+        -1.79,
+        -12.66
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 10 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#5B5D61",
+      "rgb": [
+        91,
+        93,
+        97
+      ],
+      "lab": [
+        39.44,
+        -1.06,
+        -12.06
+      ]
+    },
+    {
+      "code": "PANTONE Uool Gray 11 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#4C4F52",
+      "rgb": [
+        76,
+        79,
+        82
+      ],
+      "lab": [
+        33.43,
+        -1.55,
+        -10.65
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 1 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#C5C1BA",
+      "rgb": [
+        197,
+        193,
+        186
+      ],
+      "lab": [
+        78.2,
+        -1.8,
+        -11.32
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 2 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#BDB9B4",
+      "rgb": [
+        189,
+        185,
+        180
+      ],
+      "lab": [
+        75.33,
+        -1.38,
+        -11.92
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 3 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#AFA9A1",
+      "rgb": [
+        175,
+        169,
+        161
+      ],
+      "lab": [
+        69.51,
+        -1.05,
+        -8.91
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 4 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#A79F97",
+      "rgb": [
+        167,
+        159,
+        151
+      ],
+      "lab": [
+        65.94,
+        -0.23,
+        -7.97
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 5 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#9F978F",
+      "rgb": [
+        159,
+        151,
+        143
+      ],
+      "lab": [
+        62.92,
+        -0.15,
+        -7.41
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 6 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#958C84",
+      "rgb": [
+        149,
+        140,
+        132
+      ],
+      "lab": [
+        58.8,
+        0.35,
+        -6.49
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 7 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#8A7E76",
+      "rgb": [
+        138,
+        126,
+        118
+      ],
+      "lab": [
+        53.64,
+        1.68,
+        -5.04
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 8 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7F736A",
+      "rgb": [
+        127,
+        115,
+        106
+      ],
+      "lab": [
+        49.27,
+        1.67,
+        -3.58
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 9 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#786E66",
+      "rgb": [
+        120,
+        110,
+        102
+      ],
+      "lab": [
+        47.11,
+        1.11,
+        -4.1
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 10 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#6F655C",
+      "rgb": [
+        111,
+        101,
+        92
+      ],
+      "lab": [
+        43.45,
+        1.07,
+        -2.76
+      ]
+    },
+    {
+      "code": "PANTONE Warm Gray 11 U",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#61574E",
+      "rgb": [
+        97,
+        87,
+        78
+      ],
+      "lab": [
+        37.68,
+        1.28,
+        -1.6
+      ]
+    },
+    {
+      "code": "PANTONE 871 U (Metallic Gold)",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7E633C",
+      "rgb": [
+        126,
+        99,
+        60
+      ],
+      "lab": [
+        43.78,
+        4.39,
+        18.75
+      ]
+    },
+    {
+      "code": "PANTONE 872 U (Metallic Gold)",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7B6238",
+      "rgb": [
+        123,
+        98,
+        56
+      ],
+      "lab": [
+        43.11,
+        3.23,
+        20.35
+      ]
+    },
+    {
+      "code": "PANTONE 873 U (Metallic Gold)",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7B6239",
+      "rgb": [
+        123,
+        98,
+        57
+      ],
+      "lab": [
+        43.13,
+        3.33,
+        19.75
+      ]
+    },
+    {
+      "code": "PANTONE 874 U (Metallic Gold)",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#755F37",
+      "rgb": [
+        117,
+        95,
+        55
+      ],
+      "lab": [
+        41.6,
+        2.18,
+        19.02
+      ]
+    },
+    {
+      "code": "PANTONE 875 U (Metallic Uopper)",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#704932",
+      "rgb": [
+        112,
+        73,
+        50
+      ],
+      "lab": [
+        34.88,
+        12.74,
+        13.98
+      ]
+    },
+    {
+      "code": "PANTONE 876 U (Metallic Uopper)",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#71462E",
+      "rgb": [
+        113,
+        70,
+        46
+      ],
+      "lab": [
+        34.17,
+        14.64,
+        15.79
+      ]
+    },
+    {
+      "code": "PANTONE 877 U (Metallic Silver)",
+      "system": "PANTONE",
+      "finish": "Uncoated",
+      "hex": "#7E8183",
+      "rgb": [
+        126,
+        129,
+        131
+      ],
+      "lab": [
+        53.79,
+        -2.14,
+        -13.26
+      ]
+    },
+    {
+      "code": "Process Cyan",
+      "system": "PROCESS",
+      "finish": "Standard",
+      "hex": "#00AEEF",
+      "rgb": [
+        0,
+        174,
+        239
+      ],
+      "lab": [
+        66.9,
+        -15.87,
+        -60.68
+      ]
+    },
+    {
+      "code": "Process Magenta",
+      "system": "PROCESS",
+      "finish": "Standard",
+      "hex": "#EC008C",
+      "rgb": [
+        236,
+        0,
+        140
+      ],
+      "lab": [
+        51.53,
+        79.72,
+        -20.6
+      ]
+    },
+    {
+      "code": "Process Yellow",
+      "system": "PROCESS",
+      "finish": "Standard",
+      "hex": "#FFF200",
+      "rgb": [
+        255,
+        242,
+        0
+      ],
+      "lab": [
+        93.78,
+        -17.5,
+        82.62
+      ]
+    },
+    {
+      "code": "Process Black",
+      "system": "PROCESS",
+      "finish": "Standard",
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "lab": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "code": "Pure White",
+      "system": "PROCESS",
+      "finish": "Standard",
+      "hex": "#FFFFFF",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "lab": [
+        100.0,
+        -2.39,
+        -19.36
+      ]
+    },
+    {
+      "code": "Pure Red",
+      "system": "PROCESS",
+      "finish": "Standard",
+      "hex": "#FF0000",
+      "rgb": [
+        255,
+        0,
+        0
+      ],
+      "lab": [
+        53.24,
+        78.28,
+        62.15
+      ]
+    },
+    {
+      "code": "Pure Green",
+      "system": "PROCESS",
+      "finish": "Standard",
+      "hex": "#00FF00",
+      "rgb": [
+        0,
+        255,
+        0
+      ],
+      "lab": [
+        87.73,
+        -87.91,
+        73.92
+      ]
+    },
+    {
+      "code": "Pure Blue",
+      "system": "PROCESS",
+      "finish": "Standard",
+      "hex": "#0000FF",
+      "rgb": [
+        0,
+        0,
+        255
+      ],
+      "lab": [
+        32.3,
+        77.82,
+        -126.36
+      ]
+    }
+  ]
+}
