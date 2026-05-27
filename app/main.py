@@ -13,7 +13,7 @@ from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import JSONResponse
-
+from app.routers import inspect
 from app.config import get_settings
 from app.database import init_db, check_db_integrity
 
@@ -198,7 +198,7 @@ app.include_router(scanners.router, prefix="/api/v1/scanners", tags=["Scanners"]
 app.include_router(batch.router, prefix="/api/v1/batch", tags=["Batch"])
 app.include_router(reports.router, prefix="/api/v1/reports", tags=["Reports"])
 app.include_router(settings_router.router, prefix="/api/v1/settings", tags=["Settings"])
-
+app.include_router(inspect.router, prefix="/api/v1", tags=["Inspection"])
 
 # ── Health & Status ────────────────────────────────────────────────────────────
 @app.get("/api/health")
