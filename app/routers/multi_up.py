@@ -92,14 +92,7 @@ async def create_multi_up_job(
         status=JobStatus.queued,
     )
     db.add(job)
-    db.add(AuditLog(
-        company_id='1',
-        user_id='1',
-        action="MULTI_UP_CREATED",
-        resource_type="job",
-        resource_id=job_id,
-        details={"expected_count": expected_count, "transparent": is_transparent},
-    ))
+    
     await db.commit()
 
     log.info(f"Multi-up job {job_id} ({job_ref}) created, expected={expected_count}")
