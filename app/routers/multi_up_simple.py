@@ -1,5 +1,6 @@
 """Greenpack Pro v2.0 — Multi-Up Jobs Router (Database-Free Version)"""
 import asyncio
+import json
 import logging
 import uuid
 from datetime import datetime
@@ -15,6 +16,10 @@ from app.services.multi_up_inspection import get_multi_engine
 router = APIRouter()
 log = logging.getLogger(__name__)
 settings = get_settings()
+
+# Simple file-based storage for results
+RESULTS_DIR = Path("/tmp/multi_up_results")
+RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
 
 @router.post("/multi-up")
@@ -85,8 +90,26 @@ async def create_multi_up_job(
     }
 
 
+@router.get("/{job_id}/multi-up")
+async def get_multi_up_result(job_id: str):
+    """Get multi-up inspection result"""
+    result_file = RESULTS_DIR / f"{job_id}.json"
+    if not result_file.exists():
+        return {
+            "status": "processing", 
+            "job_id": job_id, 
+            "message": "Result not ready yet. Please wait 10-30 seconds."
+        }
+    
+    with open(result_file, "r") as f:
+        result = json.load(f)
+    return result
+
+
 async def _run_multi_up_job(job_id: str, master_path: str, scan_path: str, config: dict):
     """Background worker for multi-up inspection"""
+    result_file = RESULTS_DIR / f"{job_id}.json"
+    
     try:
         engine = get_multi_engine()
         res = await engine.inspect_sheet(
@@ -96,5 +119,12 @@ async def _run_multi_up_job(job_id: str, master_path: str, scan_path: str, confi
             config=config,
         )
         log.info(f"Multi-up job {job_id} complete: {res['labels_passed']}/{res['labels_found']} passed")
+        
+        # Save result to file
+        with open(result_file, "w") as f:
+            json.dump(res, f, default=str, indent=2)
+            
     except Exception as e:
         log.exception(f"Multi-up job {job_id} failed: {e}")
+        with open(result_file, "w") as f:
+            json.dump({"status": "failed", "job_id": job_id, "error": str(e)}, f)
