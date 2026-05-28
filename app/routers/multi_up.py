@@ -81,8 +81,8 @@ async def create_multi_up_job(
     # Fix: Proper indentation for these lines
     job = InspectionJob(
         id=job_id,
-        company_id=1,  # Hardcoded for testing
-        created_by=1,  # Hardcoded for testing
+        company_id='1',
+        created_by='1',
         job_ref=job_ref,
         client_name=client_name,
         product_name=product_name,
@@ -93,8 +93,8 @@ async def create_multi_up_job(
     )
     db.add(job)
     db.add(AuditLog(
-        company_id=1,  # Hardcoded for testing
-        user_id=1,  # Hardcoded for testing
+        company_id='1',
+        user_id='1',
         action="MULTI_UP_CREATED",
         resource_type="job",
         resource_id=job_id,
