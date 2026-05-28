@@ -216,6 +216,10 @@ async def create_trial_comparison(
 async def _run_prepress_job(job_id: str, final_path: str, trial_paths: List[str], 
                              config: dict, job_ref: str, client_name: str, product_name: str):
     """Background worker for prepress comparison"""
+    import json
+    
+    result_file = Path(settings.local_storage_root) / "prepress" / job_id / "result.json"
+    
     try:
         engine = get_prepress_engine()
         result = await engine.compare_trial_to_final(
@@ -224,7 +228,17 @@ async def _run_prepress_job(job_id: str, final_path: str, trial_paths: List[str]
             trial_proof_paths=trial_paths,
             config=config,
         )
-
+        
+        # Add job metadata to result
+        result["job_ref"] = job_ref
+        result["client_name"] = client_name
+        result["product_name"] = product_name
+        result["status"] = "completed"
+        
+        # Save result to file
+        with open(result_file, "w") as f:
+            json.dump(result, f, default=str, indent=2)
+        
         # Generate reports
         from app.services.prepress_report import generate_prepress_pdf, generate_prepress_excel
         pdf_path = await asyncio.get_event_loop().run_in_executor(
@@ -233,32 +247,57 @@ async def _run_prepress_job(job_id: str, final_path: str, trial_paths: List[str]
         excel_path = await asyncio.get_event_loop().run_in_executor(
             None, lambda: generate_prepress_excel(job_id, config, result)
         )
-
+        
         log.info(f"Prepress job {job_id} complete: decision={result['decision']}")
 
     except PrepressError as e:
         log.error(f"Prepress job {job_id} error: {e}")
+        error_result = {
+            "job_id": job_id,
+            "status": "failed",
+            "decision": "NO_GO",
+            "accuracy_score": 0,
+            "error_message": str(e),
+            "trial_reports": []
+        }
+        with open(result_file, "w") as f:
+            json.dump(error_result, f, indent=2)
+            
     except Exception as e:
         log.exception(f"Prepress job {job_id} unexpected error: {e}")
+        error_result = {
+            "job_id": job_id,
+            "status": "failed",
+            "decision": "NO_GO",
+            "accuracy_score": 0,
+            "error_message": f"Unexpected error: {str(e)}",
+            "trial_reports": []
+        }
+        with open(result_file, "w") as f:
+            json.dump(error_result, f, indent=2)
 
 
 @router.get("/{job_id}")
 async def get_prepress_result(job_id: str):
     """Get prepress comparison result"""
-    result_file = Path(settings.local_storage_root) / "prepress" / job_id / "result.json"
+    import json
+    
+    job_dir = Path(settings.local_storage_root) / "prepress" / job_id
+    result_file = job_dir / "result.json"
     
     # Try to read result from file
     if result_file.exists():
-        import json
         with open(result_file, "r") as f:
             return json.load(f)
     
-    # Check if processing
-    job_dir = Path(settings.local_storage_root) / "prepress" / job_id
+    # Check if job directory exists but no result yet
     if job_dir.exists():
         return {
             "job_id": job_id,
             "status": "processing",
+            "decision": "UNKNOWN",
+            "accuracy_score": 0,
+            "trial_reports": [],
             "message": "Job is still processing. Please check back in a few moments."
         }
     
