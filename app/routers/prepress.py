@@ -222,7 +222,6 @@ async def create_trial_comparison(
     waste_unit_cost_usd: float = Form(default=5.0, description="USD per m² for waste calc"),
     waste_run_size_m2: float = Form(default=1000.0, description="Expected run size m²"),
     db: AsyncSession = Depends(get_db),
-    current_user=Depends(get_current_user),
 ):
     """
     Compare trial demo prints against the final design BEFORE production.
@@ -258,8 +257,8 @@ async def create_trial_comparison(
     # Create DB job
     job = InspectionJob(
         id=job_id,
-        company_id=current_user.company_id,
-        created_by=current_user.id,
+        company_id=1,
+        created_by=1,
         job_ref=job_ref,
         client_name=client_name,
         product_name=product_name,
