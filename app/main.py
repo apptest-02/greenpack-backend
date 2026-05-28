@@ -2,6 +2,7 @@
 Greenpack Pro — FastAPI Application Entry Point
 Starts the complete backend API server.
 """
+import utils.session
 import asyncio
 import logging
 import sys

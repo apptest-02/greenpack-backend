@@ -4,7 +4,6 @@ __pycache__/
 *.pyo 
 *.pyd 
 .Python 
-.env 
 *.so 
 build/ 
 dist/ 
@@ -19,9 +18,10 @@ output/
 *.pt 
 *.bin 
 *.onnx 
-.vscode/ 
 .idea/ 
 *.swp 
 *.log 
 .DS_Store 
 thumbs.db
+config.bat
+node_modules
