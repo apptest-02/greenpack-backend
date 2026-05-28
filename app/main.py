@@ -186,7 +186,7 @@ async def global_exception_handler(request: Request, exc: Exception):
 
 
 # ── Include Routers ────────────────────────────────────────────────────────────
-from app.routers import auth, users, jobs, templates, scanners, batch, reports, settings_router, multi_up, prepress
+from app.routers import auth, users, jobs, templates, scanners, batch, reports, settings_router, multi_up_simple as multi_up, prepress
 
 app.include_router(auth.router, prefix="/api/v1/auth", tags=["Auth"])
 app.include_router(users.router, prefix="/api/v1/users", tags=["Users"])
